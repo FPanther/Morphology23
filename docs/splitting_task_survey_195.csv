@@ -1,0 +1,196 @@
+workerId,speakMaori,compMaori,maoriEducation,linguistics,age,gender,ethnicity,bornNz,island,outsideNz,regionMost,education,mediaMaori,socialMaori,children,maoriList,regionCurrentLive,duration,firstLang,firstLangCountry,otherLangs,hawaii,anyPolynesian,whichPolynesian,maoriRespect,maoriCompulsory,formerParticipants,maoriProf,ethnicity1,regionMost1,maoriExpo,regionCurrentLive1,maoriAttitude
+0080c0673075cfbf653180d453692749,1,1,1,no,40-49,woman,European/Pākehā,Yes,south,No,Otago,certificate or diploma,1,1,No,2,Otago,long,English,NZ,None,No,No,None,5,5,No,2,Non M,south,2,south,10
+00974317aa17697ff120c6e5edbc6001,2,2,0,no,18-29,woman,European/Pākehā/Asian,Yes,north,No,Auckland,undergraduate,4,3,No,8,Auckland,long,English,NZ,spa,No,No,None,5,5,No,4,Non M,north,7,north,10
+00bf9889c0cd52289a3622f28e071fb1,1,1,0,no,40-49,woman,European/Pākehā,Yes,north,No,Waikato,certificate or diploma,2,2,No,8,Waikato,short,English,NZ,None,No,No,None,5,5,No,2,Non M,north,4,north,10
+0173f974916eba95b68248d9c3ee3b92,1,1,0,no,50-59,woman,European/Pākehā,Yes,north,No,Manawatu,undergraduate,5,5,Yes,7,Manawatu,long,English,NZ,None,No,No,None,4,5,No,2,Non M,north,10,north,9
+034fa6f7653df1077942742031db2e1b,1,1,0,no,40-49,woman,European/Pākehā,No,south,No,Canterbury,graduate,3,3,No,2,Canterbury,long,English,Other,None,No,No,None,5,5,No,2,Non M,south,6,south,10
+03a6cd22143ba11a4c4d3174a21ac35d,1,1,0,no,50-59,woman,European/Pākehā,Yes,north,No,Auckland,undergraduate,3,2,Yes,5,Waikato,short,English,NZ,None,No,No,None,5,4,No,2,Non M,north,5,north,9
+0770dcf1271c2d7abcd73f20b6bac3c8,1,1,1,no,50-59,woman,European/Pākehā,Yes,north,No,Hawke's Bay,certificate or diploma,5,1,Yes,2,Manawatu,short,English,NZ,None,No,No,None,5,4,No,2,Non M,north,6,north,9
+0a4b70a3504351556242c20550a47860,1,1,4,no,30-39,woman,European/Pākehā/other_ethnicity,Yes,north,No,Wairarapa,undergraduate,3,5,Yes,7,Timaru - Oamaru,short,English,NZ,None,No,No,None,5,5,No,2,Non M,south,8,south,10
+0a9adbe688f527db945e316bf6e1c317,1,1,0,no,40-49,woman,Māori,Yes,north,No,Bay of Plenty,high school,3,3,No,1,Bay of Plenty,long,English,NZ,None,No,No,None,5,5,No,2,M,north,6,north,10
+0aeb68adfb7952e3be3770be70d3134e,1,1,0,no,18-29,NB,European/Pākehā,Yes,north,No,Wellington,high school,3,4,No,3,Otago,short,English,NZ,None,No,No,None,5,5,No,2,Non M,north,7,south,10
+0cc5e16a91ff48dee206ffd1a80bdbb5,1,2,2,no,18-29,woman,European/Pākehā,Yes,north,No,Bay of Plenty,undergraduate,4,4,Yes,9,Bay of Plenty,short,English,NZ,None,No,No,None,5,5,No,3,Non M,north,8,north,10
+0d689a982df9dd26bd61417d7ea6b7ef,1,2,0,no,30-39,woman,European/Pākehā,No,south,No,Canterbury,certificate or diploma,4,4,Yes,6,Canterbury,long,English,Other,None,No,No,None,5,4,No,3,Non M,south,8,south,9
+0d879f841d4b118d6f22bc656c4d7880,1,1,0,no,40-49,woman,European/Pākehā,Yes,south,No,Southland,undergraduate,4,2,Yes,5,Canterbury,short,English,NZ,None,No,No,None,5,5,No,2,Non M,south,6,south,10
+0dc7a2d453062402126e95e23a394d49,1,1,1,no,18-29,man,European/Pākehā,Yes,north,No,Taranaki,high school,2,3,No,5,Manawatu,short,English,NZ,None,No,No,None,4,3,No,2,Non M,north,5,north,7
+0e803638f34e662dd42786d8033e1482,1,1,1,no,40-49,woman,European/Pākehā,Yes,south,No,Canterbury,certificate or diploma,4,3,Yes,5,Canterbury,long,English,NZ,None,No,No,None,5,4,No,2,Non M,south,7,south,9
+1485834aa9623407e5d6115e1962b0d3,1,1,0,no,30-39,woman,European/Pākehā,Yes,south,No,Otago,certificate or diploma,3,2,Yes,2,Southland,short,English,NZ,None,No,No,None,5,3,No,2,Non M,south,5,south,8
+156ea433a017578943a0fc5c399873fd,1,1,2,no,30-39,woman,European/Pākehā,Yes,north,No,Taranaki,high school,4,2,Yes,6,Taranaki,long,English,NZ,None,No,No,None,4,4,No,2,Non M,north,6,north,8
+16c403cf742632e725e11dff0447edea,1,1,0,no,60,man,European/Pākehā,Yes,north,No,Manawatu,graduate,5,4,No,4,Canterbury,long,English,NZ,None,No,No,None,5,5,No,2,Non M,north,9,south,10
+18c90a595ca0ebc4ea9e10ea627e2fb0,1,0,1,no,30-39,woman,European/Pākehā,Yes,south,No,Canterbury,high school,4,2,Yes,5,Nelson Bays,short,English,NZ,None,No,No,None,5,5,No,1,Non M,south,6,south,10
+19acc05dcd8923cf17ccb522644c782b,1,2,1,no,18-29,woman,European/Pākehā,No,north,No,Auckland,graduate,3,5,No,8,Auckland,long,English,NZ,None,No,No,None,5,5,No,3,Non M,north,8,north,10
+1a58bfb891b16153b7bc34f3ad5e7cdb,1,1,1,no,30-39,woman,European/Pākehā,Yes,north,No,Waikato,certificate or diploma,2,2,Yes,6,Waikato,long,English,NZ,None,No,No,None,4,4,Yes,2,Non M,north,4,north,8
+1db2a774b019e9e26cc9140336602b82,1,2,3,no,40-49,man,European/Pākehā,Yes,south,No,Canterbury,certificate or diploma,5,2,Yes,6,Canterbury,long,English,NZ,None,No,No,None,4,3,No,3,Non M,south,7,south,7
+1e33e73c36d1a5ead338012d043180a7,1,1,1,no,40-49,woman,European/Pākehā,Yes,north,No,Wellington,undergraduate,5,3,Yes,8,Wairarapa,short,English,NZ,None,No,No,None,4,5,No,2,Non M,north,8,south,9
+1eba0d6362b52b13c4d0c6612847d6ca,1,1,1,no,30-39,woman,European/Pākehā,Yes,north,No,Auckland,undergraduate,4,4,Yes,3,Auckland,long,English,NZ,None,No,No,None,5,5,No,2,Non M,north,8,north,10
+1fc81148bc66711932363728fa05b9a5,1,1,1,no,18-29,woman,European/Pākehā,Yes,south,No,Canterbury,undergraduate,3,4,No,6,Canterbury,short,English,NZ,None,No,No,None,5,5,No,2,Non M,south,7,south,10
+207be8facc8c9ae7dbcede4e8be5ed92,2,2,1,lang,50-59,woman,European/Pākehā,Yes,north,No,Wellington,certificate or diploma,5,4,Yes,6,Wellington,long,English,NZ,None,No,No,None,5,5,No,4,Non M,north,9,north,10
+20f9948e828cbe075066009c24014f43,1,1,1,no,30-39,woman,European/Pākehā,Yes,south,No,Canterbury,graduate,5,4,Yes,9,Northland,short,English,NZ,None,No,No,None,5,5,No,2,Non M,south,9,north,10
+21ba612ca670fe7d7403c184a41b14a0,1,1,1,no,18-29,NB,European/Pākehā,Yes,north,No,Auckland,high school,5,3,No,7,Auckland,long,English,NZ,None,No,No,None,4,2,No,2,Non M,north,8,north,6
+21e491106826d9472c095e8a358eacfe,1,1,1,no,30-39,woman,European/Pākehā/Māori,Yes,north,No,Bay of Plenty,high school,5,5,Yes,6,Bay of Plenty,long,English,NZ,None,No,No,None,5,5,Yes,2,M,north,10,north,10
+225592137c6455357043951d8e9e1016,1,1,1,no,40-49,woman,European/Pākehā,Yes,north,No,Waikato,certificate or diploma,5,4,Yes,8,Wairarapa,short,English,NZ,None,No,No,None,5,5,No,2,Non M,north,9,south,10
+22a6dc475b61c9df2a50aa3b62d51e65,1,1,0,no,60,woman,European/Pākehā,Yes,north,No,Taranaki,certificate or diploma,3,3,No,1,Taranaki,long,English,NZ,None,No,No,None,5,5,Yes,2,Non M,north,6,north,10
+22d568a88ff62882925379f0650e28c4,1,1,2,no,40-49,woman,European/Pākehā/Māori,Yes,north,No,Bay of Plenty,undergraduate,4,4,Yes,7,Bay of Plenty,long,English,NZ,None,No,No,None,5,5,No,2,M,north,8,north,10
+22dcd2228682559d5de11966d7b88341,1,1,1,no,18-29,woman,European/Pākehā,Yes,north,No,Manawatu,high school,4,3,No,9,Canterbury,short,English,NZ,None,No,No,None,5,5,No,2,Non M,north,7,south,10
+232ad211194abfb8b2276a1632832c38,2,2,2,no,40-49,woman,Māori,Yes,north,No,Wellington,certificate or diploma,3,4,Yes,8,Wellington,long,English,NZ,None,No,No,None,5,5,No,4,M,north,7,north,10
+235ac4eefeee7b999375af26a4b729ef,1,2,3,no,30-39,woman,European/Pākehā,Yes,north,No,Hawke's Bay,undergraduate,5,5,No,8,Hawke's Bay,short,English,NZ,None,No,No,None,5,5,No,3,Non M,north,10,north,10
+26cece158cc739668778c6aa80d98bd4,1,1,1,no,18-29,woman,European/Pākehā/other_ethnicity,Yes,north,No,Wellington,high school,4,2,No,7,Otago,short,English,NZ,fra,No,No,None,5,5,No,2,Non M,north,6,south,10
+27e3a5232837f1ff7a25a304c1feeec3,0,0,0,no,30-39,woman,European/Pākehā,Yes,south,No,Canterbury,high school,3,1,Yes,2,Canterbury,long,English,NZ,jpn,No,No,None,4,3,No,0,Non M,south,4,south,7
+2a8f214334f1704e5145f0e72fe701a9,1,1,1,lang,18-29,man,European/Pākehā/Māori,Yes,south,No,Otago,undergraduate,5,1,No,3,Otago,long,English,NZ,None,No,No,None,3,3,No,2,M,south,6,south,6
+2bcbc10a9a422664b556e5132ba394b7,0,2,2,no,30-39,NS,European/Pākehā,Yes,north,No,Wellington,undergraduate,2,4,No,6,Canterbury,long,English,NZ,None,No,No,None,5,5,No,2,Non M,north,6,south,10
+2ce6b82067a6b3893cb411ae4aeebfca,1,2,2,no,30-39,woman,European/Pākehā,Yes,north,No,Hawke's Bay,certificate or diploma,4,4,Yes,8,Hawke's Bay,long,English,NZ,None,No,No,None,4,3,No,3,Non M,north,8,north,7
+2e16d7836e0a62f5cd6caa2ef4e4d0fe,1,1,2,no,30-39,woman,European/Pākehā,Yes,north,No,Taranaki,certificate or diploma,4,5,Yes,8,Taranaki,long,English,NZ,None,No,No,None,5,5,No,2,Non M,north,9,north,10
+2f0f464bc3eefac6220af3437e0f71d2,1,0,0,no,18-29,woman,European/Pākehā,Yes,south,No,Canterbury,high school,4,3,No,4,Canterbury,long,English,NZ,jpn,No,No,None,4,4,Yes,1,Non M,south,7,south,8
+305fb37c0854e435503ed690f3d4e35c,0,0,1,no,18-29,woman,Asian,Yes,north,No,Auckland,undergraduate,2,1,No,1,Wellington,short,English,NZ,cmn,No,No,None,5,3,No,0,Non M,north,3,north,8
+30730083a5db78f6019dbebbfd2584b5,1,0,0,no,18-29,woman,European/Pākehā,Yes,north,No,Manawatu,high school,3,1,Yes,5,Manawatu,long,English,NZ,None,No,No,None,5,5,No,1,Non M,north,4,north,10
+30a64146c15929d54bf9c531a2f01d75,1,1,1,no,18-29,NB,European/Pākehā,Yes,north,No,Wellington,high school,4,3,No,6,Wellington,long,English,NZ,None,No,No,None,4,5,No,2,Non M,north,7,north,9
+31fb37d244fa9ca3149eb202a2af60d6,2,2,0,no,40-49,woman,European/Pākehā/Māori,Yes,north,No,Auckland,undergraduate,5,4,Yes,8,Hawke's Bay,long,English,NZ,None,No,No,None,5,5,No,4,M,north,9,north,10
+322a28e0b991ca80e0dbbe5af4d42425,1,1,2,no,50-59,woman,other_ethnicity,Yes,north,No,Waikato,undergraduate,4,4,No,4,Auckland,long,English,NZ,None,No,No,None,3,4,No,2,Non M,north,8,north,7
+324a2a3e1e43700bd3dc55bc4b88903d,1,1,4,lang,18-29,woman,European/Pākehā,Yes,north,No,Bay of Plenty,certificate or diploma,4,3,No,8,Waikato,short,English,NZ,None,No,No,None,4,4,No,2,Non M,north,7,north,8
+33898bee8a044a911f506cc04465acf3,1,1,3,no,50-59,woman,European/Pākehā,Yes,south,No,Otago,certificate or diploma,3,3,Yes,4,Otago,long,English,NZ,None,No,No,None,4,5,No,2,Non M,south,6,south,9
+3413b6c188f8116711cf0a9ddac61e32,1,2,2,no,60,NS,European/Pākehā/other_ethnicity,Yes,north,No,Waikato,undergraduate,5,5,No,7,Waikato,long,English,NZ,None,No,No,None,5,5,No,3,Non M,north,10,north,10
+3469914e167137e0ef07eefb7b9740c5,1,1,0,no,60,woman,European/Pākehā,Yes,north,No,Northland,high school,4,4,No,2,Northland,long,English,NZ,None,No,No,None,5,5,No,2,Non M,north,8,north,10
+36405df47b45fb4df90d1d63447f01fb,1,0,0,no,30-39,woman,Middle Eastern_Latin American_African,No,north,No,Auckland,undergraduate,3,3,No,2,Auckland,long,English,Other,None,No,No,None,4,3,No,1,Non M,north,6,north,7
+3a2b3a2a24835bac6a2e1abf313e26bf,1,1,1,no,18-29,woman,European/Pākehā,Yes,south,No,Canterbury,undergraduate,5,4,No,7,Canterbury,long,English,NZ,None,No,No,None,5,5,No,2,Non M,south,9,south,10
+3b69836671db7b31a4ac329cad201c92,1,1,1,no,18-29,woman,European/Pākehā/Māori,Yes,north,No,Manawatu,high school,1,2,Yes,4,Canterbury,short,English,NZ,None,No,No,None,5,5,No,2,M,north,3,south,10
+3baff617da99fb4016d90f049a320e7f,2,2,2,no,40-49,woman,European/Pākehā/Māori,Yes,south,No,Southland,certificate or diploma,4,4,Yes,8,Southland,long,English,NZ,None,No,No,None,5,5,No,4,M,south,8,south,10
+3df2a185fb097b236200386df44cd10e,1,1,0,no,18-29,NS,European/Pākehā/Asian,Yes,north,No,Wellington,high school,2,2,No,6,Wellington,long,English,NZ,None,No,No,None,5,5,No,2,Non M,north,4,north,10
+3e1bb5686ef29f1d241911e17853004f,1,1,1,no,40-49,woman,European/Pākehā/Māori,Yes,north,No,Bay of Plenty,graduate,4,5,No,7,Waikato,short,English,NZ,None,No,No,None,5,5,No,2,M,north,9,north,10
+40b50d828a0bebee5e993d565a820a00,1,1,0,no,60,woman,European/Pākehā,Yes,north,No,Wellington,certificate or diploma,4,5,No,7,Wellington,long,English,NZ,None,No,No,None,5,5,No,2,Non M,north,9,north,10
+40c36bd1a44c01af03e1ed153abe676c,2,2,0,no,60,woman,European/Pākehā,Yes,south,No,Canterbury,graduate,2,4,No,8,Canterbury,long,English,NZ,None,No,No,None,5,5,No,4,Non M,south,6,south,10
+41fc79f197be8dbe3a6683c1fb271f98,0,0,0,no,30-39,man,European/Pākehā,Yes,north,No,Auckland,undergraduate,2,2,Yes,1,Auckland,long,English,NZ,None,No,No,None,3,3,No,0,Non M,north,4,north,6
+426277b24c9fef28272bc7cefe26c182,1,1,0,no,40-49,woman,European/Pākehā,Yes,north,No,Auckland,undergraduate,3,3,Yes,3,Auckland,long,English,NZ,None,No,No,None,5,5,No,2,Non M,north,6,north,10
+43077b604720c9624586e9a7b0aa2235,0,1,0,no,18-29,woman,European/Pākehā,Yes,north,No,Manawatu,undergraduate,1,1,Yes,5,Wellington,short,English,NZ,"fra,prt",No,No,None,5,5,No,1,Non M,north,2,north,10
+44f6e12620ee89bc016c6250464b4f77,2,2,4,no,18-29,woman,European/Pākehā,Yes,north,No,Auckland,certificate or diploma,4,4,No,4,Canterbury,long,English,NZ,None,No,No,None,5,5,No,4,Non M,north,8,south,10
+460110f8956565e9120fc4d195265561,0,0,0,no,30-39,woman,European/Pākehā,Yes,north,No,Auckland,undergraduate,1,3,No,0,Auckland,short,English,NZ,None,No,No,None,3,3,No,0,Non M,north,4,north,6
+46ad584dfaddfdc404675668e5b083b3,2,2,1,no,18-29,man,Asian,Yes,north,No,Auckland,undergraduate,3,2,No,1,Auckland,long,English,NZ,None,No,No,None,2,2,No,4,Non M,north,5,north,4
+47800db1ba3514e3eafa437b0ccfe14a,1,1,1,lang,18-29,woman,European/Pākehā/Asian,Yes,north,No,Auckland,undergraduate,4,2,No,7,Auckland,long,English,NZ,None,No,No,None,5,5,No,2,Non M,north,6,north,10
+47ebae1f3de45d6a67eb8bf98390d1d7,0,0,0,no,18-29,woman,Asian,Yes,north,No,Wellington,high school,3,4,No,3,Auckland,short,English,NZ,fra,No,No,None,4,4,No,0,Non M,north,7,north,8
+49bc007c438d8b6734d020ab582cfabb,1,1,1,no,18-29,woman,European/Pākehā,Yes,south,No,Canterbury,undergraduate,2,2,No,6,Canterbury,long,English,NZ,None,No,No,None,5,5,No,2,Non M,south,4,south,10
+4a7c84f7644ec36f03369b1fdc1070c4,1,1,0,no,18-29,woman,European/Pākehā,Yes,north,No,Taranaki,high school,3,3,Yes,9,Taranaki,long,English,NZ,None,No,No,None,4,3,No,2,Non M,north,6,north,7
+4bc61f4ed3c3788f94c84f61e75ccadb,1,1,1,no,30-39,man,European/Pākehā,Yes,north,No,Bay of Plenty,undergraduate,2,2,No,6,Waikato,short,English,NZ,None,No,No,None,5,5,Yes,2,Non M,north,4,north,10
+4e0474dd3d2633715df04873bc2d33d4,1,1,1,no,40-49,woman,European/Pākehā,Yes,south,No,Canterbury,graduate,5,5,No,9,Canterbury,long,English,NZ,None,No,No,None,5,4,Yes,2,Non M,south,10,south,9
+4e4d0eecb0fabed29fddec7116f62f15,2,2,0,no,18-29,woman,European/Pākehā,Yes,north,No,Manawatu,high school,4,4,No,8,Wellington,short,English,NZ,None,No,No,None,5,5,No,4,Non M,north,8,north,10
+4f11f4d93b8caad811f9f7d73c4733f5,1,1,1,no,18-29,woman,European/Pākehā,No,south,No,Canterbury,certificate or diploma,3,2,No,4,Canterbury,long,English,NZ,wls,No,No,None,5,5,No,2,Non M,south,5,south,10
+4fc2d0662e303f708c0a5ac80d550482,1,1,4,no,40-49,woman,European/Pākehā,Yes,south,No,Canterbury,certificate or diploma,4,4,Yes,2,Canterbury,long,English,NZ,None,No,No,None,4,4,No,2,Non M,south,8,south,8
+50004a2e6ce196f5eabf8cb4e7343ff6,1,1,1,no,30-39,woman,European/Pākehā,Yes,north,No,Manawatu,certificate or diploma,3,3,Yes,6,Manawatu,long,English,NZ,None,No,No,None,5,5,No,2,Non M,north,6,north,10
+53f61a8c9b9a8d873cc718f6e9ce13df,1,1,1,no,18-29,man,European/Pākehā/Māori,Yes,south,No,Southland,high school,5,5,No,8,Canterbury,short,English,NZ,None,No,No,None,5,5,No,2,M,south,10,south,10
+542ab9ab2e195f2a1b39bd17a7b3ff53,1,0,0,no,60,woman,European/Pākehā,Yes,north,No,Gisborne,certificate or diploma,2,3,No,2,Gisborne,long,English,NZ,None,No,No,None,2,4,No,1,Non M,north,5,north,6
+5691e69be9eb0c0c80cc5c15b8763418,2,1,0,no,18-29,woman,European/Pākehā/Asian,Yes,north,No,Auckland,undergraduate,2,2,No,9,Taranaki,short,English,NZ,tha,No,No,None,5,5,No,3,Non M,north,4,north,10
+5793f770b4500183e4b8e74e237e4d02,1,2,1,no,18-29,man,European/Pākehā,Yes,north,No,Bay of Plenty,graduate,3,4,No,6,Otago,short,English,NZ,None,No,No,None,5,4,Yes,3,Non M,north,7,south,9
+5a126c353d53a02cd2cd9fec098283f9,1,2,3,no,60,woman,Māori,Yes,north,No,Auckland,certificate or diploma,4,1,No,6,Bay of Plenty,long,English,NZ,None,No,No,None,3,1,No,3,M,north,5,north,4
+5a4f1764258bcb8040bf161ec1df68e6,0,1,0,no,50-59,man,European/Pākehā,No,equal,No,Wellington,certificate or diploma,2,1,Yes,3,Wellington,long,English,NZ,None,No,No,None,4,5,No,1,Non M,north,3,north,9
+5a9c419b90db1cc73e39f0492025a199,1,1,0,no,40-49,woman,European/Pākehā,Yes,equal,No,Nelson Bays,undergraduate,4,4,Yes,6,Auckland,long,English,NZ,None,No,No,None,5,5,No,2,Non M,south,8,north,10
+5aa1d16a5904f2392ca7ca3caeec54c2,1,1,1,no,18-29,man,European/Pākehā,Yes,south,No,Timaru - Oamaru,undergraduate,3,3,No,4,Otago,short,English,NZ,None,No,No,None,5,5,No,2,Non M,south,6,south,10
+5b985649f5859fc68370add781f699ae,1,1,0,no,18-29,woman,European/Pākehā,Yes,north,No,Auckland,certificate or diploma,4,5,No,6,Auckland,short,English,NZ,None,No,No,None,5,5,No,2,Non M,north,9,north,10
+5f48919a8b3ea8f1d41e641be894fc6b,1,1,0,no,40-49,woman,European/Pākehā,Yes,north,No,Auckland,high school,1,2,Yes,3,Auckland,long,English,NZ,None,No,No,None,4,3,No,2,Non M,north,3,north,7
+605bcd825cf8e60cc136584dbfc0b6a0,1,0,0,no,50-59,woman,European/Pākehā,Yes,north,No,Hawke's Bay,high school,4,4,No,0,Hawke's Bay,long,English,NZ,None,No,No,None,4,4,Yes,1,Non M,north,8,north,8
+60e998f52035bb3be5c38eaf7e25d8cd,1,0,0,no,50-59,man,European/Pākehā,Yes,south,No,Canterbury,undergraduate,5,5,No,3,Canterbury,long,English,NZ,None,No,No,None,3,3,No,1,Non M,south,10,south,6
+620f17f552b2e6a9f13cc5fbb46a3c09,1,1,4,no,60,woman,European/Pākehā,No,north,No,Auckland,undergraduate,5,4,No,8,Auckland,long,English,Other,None,No,No,None,5,5,No,2,Non M,north,9,north,10
+6366c9724c16ed820e7c46915cc42383,1,1,0,no,30-39,woman,European/Pākehā/Pacific Peoples/other_ethnicity,Yes,south,No,Canterbury,graduate,4,5,No,7,Canterbury,long,English,NZ,deu,No,No,None,5,5,No,2,Non M,south,9,south,10
+639cdf14a60b75862dac0c7ef507badb,2,2,1,no,18-29,woman,European/Pākehā/Māori,Yes,north,No,Auckland,undergraduate,5,3,Yes,9,Auckland,long,English,NZ,None,No,No,None,5,4,No,4,M,north,8,north,9
+63a0da3bfb1da253e294888a219bec28,1,2,3,no,50-59,woman,European/Pākehā,Yes,north,No,Bay of Plenty,certificate or diploma,4,2,No,7,Bay of Plenty,long,English,NZ,None,No,No,None,5,5,No,3,Non M,north,6,north,10
+63ebcfa4886f0b451ca4712a3b65aab5,1,1,1,no,30-39,woman,European/Pākehā,Yes,north,No,Auckland,certificate or diploma,4,3,Yes,6,Timaru - Oamaru,short,English,NZ,None,No,No,None,5,5,Yes,2,Non M,north,7,south,10
+64c827aa5b3c94af30441fa128041415,0,0,0,no,60,NB,other_ethnicity,Yes,north,No,Auckland,undergraduate,5,1,No,0,Auckland,long,English,NZ,"fra,lat",No,No,None,1,NA,No,0,Non M,north,6,north,NA
+67cd28a3f487c5ef66e7d09771d6a306,1,2,1,no,18-29,woman,Māori,Yes,north,No,Auckland,graduate,5,4,No,9,Hawke's Bay,short,English,NZ,None,No,No,None,5,5,No,3,M,north,9,north,10
+680b4193f4cef591089483891616da7a,1,1,0,no,60,woman,European/Pākehā/Māori,Yes,north,No,Bay of Plenty,certificate or diploma,2,2,No,3,Bay of Plenty,long,English,NZ,None,No,No,None,5,4,No,2,M,north,4,north,9
+685461ca2877f27dca1ce63d29345825,1,2,3,no,18-29,woman,European/Pākehā/Māori,Yes,north,No,Waikato,high school,4,4,No,9,Bay of Plenty,short,English,NZ,None,No,No,None,5,5,No,3,M,north,8,north,10
+69387584555eb1f73ac4f4238c245350,1,1,1,no,40-49,woman,European/Pākehā,Yes,north,No,Southland,certificate or diploma,4,4,No,4,Southland,long,English,NZ,None,No,No,None,5,5,No,2,Non M,south,8,south,10
+6c311870b41c70136bb9a7343a0b6e6b,1,1,2,no,18-29,NB,European/Pākehā,Yes,north,No,Auckland,high school,4,2,No,4,Auckland,long,English,NZ,None,No,No,None,5,4,No,2,Non M,north,6,north,9
+6ceb048f1f0a95096124ed4068b31f40,1,1,0,no,30-39,woman,European/Pākehā,Yes,north,No,Auckland,certificate or diploma,5,5,No,7,Auckland,long,English,NZ,None,No,No,None,4,5,Yes,2,Non M,north,10,north,9
+6d9a1a6b8fbbc3c05d07e9e998f4962a,2,2,1,lang,30-39,NB,European/Pākehā/Māori,Yes,north,No,Taranaki,certificate or diploma,4,2,No,6,Taranaki,long,English,NZ,None,No,No,None,5,5,No,4,M,north,6,north,10
+703e944889116c388fcfe0a025d83a50,2,2,3,no,30-39,woman,European/Pākehā/Māori,Yes,north,No,Waikato,graduate,5,5,Yes,9,Waikato,long,English,NZ,None,No,No,None,5,5,No,4,M,north,10,north,10
+73736d946235433ca4d4e85395c99b01,0,0,0,no,18-29,woman,European/Pākehā/Asian,Yes,north,No,Bay of Plenty,high school,1,1,Yes,1,Canterbury,short,English,NZ,"cmn,yue",No,No,None,3,3,No,0,Non M,north,2,south,6
+7393393835e31cc0bf90d8364f99f6e2,1,1,1,no,30-39,woman,European/Pākehā/Māori,Yes,north,No,Waikato,graduate,3,5,Yes,7,Waikato,short,English,NZ,None,No,No,None,5,5,No,2,M,north,8,north,10
+75b48fd81242d22ca35a9618709cf504,1,1,4,no,50-59,woman,European/Pākehā,Yes,south,No,Canterbury,undergraduate,4,4,No,4,Canterbury,long,English,NZ,None,No,No,None,5,5,No,2,Non M,south,8,south,10
+7708503f1b37e52954696eb368c76022,1,1,0,no,18-29,woman,European/Pākehā/Asian,Yes,north,No,Taranaki,graduate,4,3,No,7,Waikato,short,English,NZ,None,No,No,None,5,4,No,2,Non M,north,7,north,9
+779913d977d354f44e9ea178c924fc65,1,1,0,no,40-49,woman,European/Pākehā,Yes,north,No,Waikato,undergraduate,4,4,No,2,Waikato,long,English,NZ,None,No,No,None,3,3,No,2,Non M,north,8,north,6
+78d456baf2a142986e9357ce037966f3,1,1,0,no,50-59,woman,European/Pākehā,Yes,north,No,Auckland,high school,3,2,No,2,Manawatu,short,English,NZ,None,No,No,None,5,4,No,2,Non M,north,5,north,9
+78ea455059cf1f54f9064a1e203604f6,1,1,1,lang,30-39,man,European/Pākehā,Yes,north,No,Auckland,certificate or diploma,5,5,No,7,Auckland,long,English,NZ,None,No,No,None,5,5,No,2,Non M,north,10,north,10
+7b5a6ab7573148aaacf890a31c8a81b6,1,1,0,no,50-59,woman,European/Pākehā,No,north,No,Auckland,undergraduate,3,2,No,6,Auckland,long,English,Other,None,No,No,None,5,5,No,2,Non M,north,5,north,10
+7c61e275555e6a27624bbc5e3de073c2,1,1,1,no,40-49,woman,Māori,Yes,north,No,Bay of Plenty,high school,3,3,No,2,Bay of Plenty,long,English,NZ,None,No,No,None,5,5,No,2,M,north,6,north,10
+7fc0120a732554a9a3ac2b835ddfe03a,1,2,2,no,40-49,woman,European/Pākehā,Yes,south,No,Canterbury,graduate,5,2,Yes,9,Canterbury,long,English,NZ,None,No,No,None,5,5,No,3,Non M,south,7,south,10
+81742f0ce32432f6acfb7d2e9ef779ab,1,1,2,no,30-39,NB,European/Pākehā,Yes,north,No,Waikato,certificate or diploma,3,3,Yes,7,Waikato,long,English,NZ,None,No,No,None,5,5,No,2,Non M,north,6,north,10
+8248119962c213a2e394ffc140232917,1,1,1,no,40-49,man,European/Pākehā/Māori,Yes,south,No,Canterbury,high school,5,2,Yes,4,Canterbury,long,English,NZ,None,No,No,None,4,4,No,2,M,south,7,south,8
+82cb1a9d6170bfbba904a6dc7afc1184,1,1,1,no,40-49,woman,European/Pākehā,Yes,south,No,Otago,graduate,4,3,No,5,Otago,long,English,NZ,None,No,No,None,5,5,Yes,2,Non M,south,7,south,10
+879d02050f00b593c12a0a950bc0424a,1,1,2,no,30-39,man,European/Pākehā,Yes,north,No,Bay of Plenty,high school,2,2,Yes,0,Bay of Plenty,long,English,NZ,None,No,No,None,3,2,No,2,Non M,north,4,north,5
+89bf65e2f476561e7c23ac481b45a075,1,1,5,no,50-59,woman,European/Pākehā,No,south,No,Otago,graduate,4,4,No,3,Otago,long,English,Other,None,No,No,None,5,5,No,2,Non M,south,8,south,10
+8ab42c2905928e6b3e2eb9418c7e9a38,1,2,0,no,60,woman,European/Pākehā,Yes,south,No,Otago,graduate,5,4,No,7,Otago,long,English,NZ,None,No,No,None,3,2,No,3,Non M,south,9,south,5
+8bb8cd415227baa62f598f109626a574,2,2,0,no,18-29,woman,European/Pākehā,Yes,north,No,Auckland,undergraduate,3,3,No,7,Auckland,long,English,NZ,None,No,No,None,5,5,No,4,Non M,north,6,north,10
+8d9c5ef3760014fd1f837440f8c459ee,1,1,2,no,18-29,woman,Asian,Yes,north,No,Auckland,high school,3,2,No,5,Auckland,long,English,NZ,cmn,No,No,None,4,4,No,2,Non M,north,5,north,8
+8e96e425be05dbc98d32f8fbc9e77282,2,2,0,no,60,woman,European/Pākehā,Yes,north,No,Manawatu,certificate or diploma,4,4,No,4,Manawatu,long,English,NZ,None,No,No,None,5,5,No,4,Non M,north,8,north,10
+8f83906292b5a673ad39a2181c7af60b,2,2,5,no,40-49,woman,European/Pākehā,Yes,north,No,Auckland,graduate,4,3,Yes,9,Auckland,long,English,NZ,None,No,No,None,5,4,No,4,Non M,north,7,north,9
+91be110d66dc896301c0c5f354add477,0,2,0,no,30-39,woman,European/Pākehā,Yes,south,No,Canterbury,graduate,1,3,No,1,Canterbury,long,English,NZ,None,No,No,None,3,4,No,2,Non M,south,4,south,7
+91d2f505409464901122463c65cf0f92,1,1,1,no,40-49,woman,European/Pākehā/Māori,Yes,south,No,Canterbury,high school,4,4,No,7,Timaru - Oamaru,short,English,NZ,None,No,No,None,5,4,No,2,M,south,8,south,9
+921e4573e829c9d5a7ab9e9748473797,1,1,1,no,18-29,woman,European/Pākehā,Yes,equal,No,Canterbury,undergraduate,3,2,No,5,Canterbury,short,English,NZ,None,No,No,None,5,5,No,2,Non M,south,5,south,10
+93a4c874c109c291acc6cd4db5e19551,1,0,1,no,40-49,woman,European/Pākehā,Yes,south,No,Southland,high school,3,2,No,5,Southland,long,English,NZ,None,No,No,None,3,2,No,1,Non M,south,5,south,5
+95849919c6924322839c9680435dbadf,1,1,1,no,30-39,woman,other_ethnicity,Yes,south,No,Canterbury,high school,2,2,Yes,7,Canterbury,long,English,NZ,None,No,No,None,3,3,No,2,Non M,south,4,south,6
+982b4dca5dc99ebdfdff2b49ab2ec7b9,1,1,1,no,18-29,woman,Asian,Yes,south,No,Canterbury,undergraduate,4,4,No,5,Wellington,short,English,NZ,None,No,No,None,5,3,Yes,2,Non M,south,8,north,8
+98b9f9fd37a1d4856aa70fb3a2a335be,2,1,4,lang,60,woman,European/Pākehā,Yes,south,No,Otago,graduate,1,5,No,8,Otago,long,English,NZ,None,No,No,None,5,5,No,3,Non M,south,6,south,10
+9907d29f59c5ba231d7791621d24ee19,1,1,1,no,18-29,woman,European/Pākehā/Māori,Yes,north,No,Waikato,high school,3,2,Yes,8,Waikato,long,English,NZ,None,No,No,None,5,5,No,2,M,north,5,north,10
+9a77dfdacb7c58e98989d07acef434d0,2,2,5,no,30-39,man,European/Pākehā,Yes,equal,No,Canterbury,graduate,3,2,Yes,6,Canterbury,short,English,NZ,None,No,No,None,5,3,No,4,Non M,south,5,south,8
+a1317a5a200c1490b9a672e321c727d3,1,1,1,no,30-39,woman,European/Pākehā,Yes,north,No,Waikato,certificate or diploma,3,3,Yes,6,Wellington,long,English,NZ,None,No,No,None,4,5,Yes,2,Non M,north,6,north,9
+a17e1a23b13494d89b82d796e092d252,1,1,1,no,18-29,woman,European/Pākehā/Māori,Yes,north,No,Auckland,high school,4,5,Yes,8,Canterbury,short,English,NZ,None,No,No,None,5,5,Yes,2,M,north,9,south,10
+a2c092a339f2106e0b248534995cfc01,0,1,0,no,60,man,European/Pākehā,Yes,north,No,Wellington,undergraduate,5,4,No,1,Wellington,long,English,NZ,None,No,No,None,5,5,No,1,Non M,north,9,north,10
+a35e1e889b6d5c8c44d4cfa5c8a64c11,0,0,0,no,18-29,woman,European/Pākehā/Asian,Yes,north,No,Auckland,high school,2,3,No,1,Auckland,long,English,NZ,None,No,No,None,3,3,No,0,Non M,north,5,north,6
+a56c61afcf8dede3d328790bbedcdaca,1,1,0,no,18-29,NB,European/Pākehā,Yes,south,No,Canterbury,undergraduate,4,2,Yes,5,Canterbury,long,English,NZ,nzsl,No,No,None,5,5,Yes,2,Non M,south,6,south,10
+a7c045146982e98e8e6bbbefff7d7cf3,2,2,0,no,18-29,woman,European/Pākehā,Yes,north,No,Waikato,graduate,5,4,No,9,Wellington,short,English,NZ,None,No,No,None,5,4,No,4,Non M,north,9,north,9
+a9205c2a5eee22a33e6d4bbec6ace8d0,1,0,0,no,50-59,woman,European/Pākehā,Yes,south,No,Canterbury,graduate,5,3,Yes,8,Canterbury,long,English,NZ,fra,No,No,None,5,5,No,1,Non M,south,8,south,10
+aa842267b1afa04f5fe4340683a17475,0,0,0,lang,60,woman,European/Pākehā,Yes,south,No,Southland,undergraduate,4,4,No,2,Southland,long,English,NZ,"fra,deu,jpn",No,No,None,5,4,No,0,Non M,south,8,south,9
+affdb3bd9a89cf056f08424ee3591cf0,1,1,1,no,18-29,woman,European/Pākehā,Yes,north,No,Auckland,high school,4,2,No,7,Auckland,long,English,NZ,spa,No,No,None,5,4,No,2,Non M,north,6,north,9
+b06d027ab43d71c8028b3f485bcb96e4,0,0,0,no,30-39,man,European/Pākehā,Yes,north,No,Auckland,graduate,2,2,Yes,0,Waikato,long,English,NZ,None,No,No,None,3,3,No,0,Non M,north,4,north,6
+b28480f0023d57dd599c2ad510790447,0,1,0,no,18-29,woman,European/Pākehā,No,north,No,Auckland,certificate or diploma,3,3,No,2,Auckland,long,English,NZ,afr,No,No,None,5,4,No,1,Non M,north,6,north,9
+b2cd940b0f5161fb3b1c4d956c49b825,1,2,0,no,40-49,woman,Māori,Yes,north,No,Bay of Plenty,certificate or diploma,2,1,Yes,7,Bay of Plenty,long,English,NZ,None,No,No,None,3,3,No,3,M,north,3,north,6
+b3111157972c330bd6b4b372db25ee47,1,1,1,no,18-29,woman,European/Pākehā,Yes,north,No,Taranaki,graduate,4,4,No,7,Manawatu,short,English,NZ,None,No,No,None,5,5,No,2,Non M,north,8,north,10
+b37b158f6c42c998e9ca7f5454847101,1,1,0,no,18-29,woman,European/Pākehā,Yes,north,No,Hawke's Bay,high school,4,4,No,2,Hawke's Bay,long,English,NZ,None,No,No,None,4,4,No,2,Non M,north,8,north,8
+b82b7dd7db7d910d0a6adabfc0738260,1,1,1,no,30-39,man,European/Pākehā/Māori,Yes,equal,No,Otago,undergraduate,5,5,No,6,Waikato,short,English,NZ,None,No,No,None,5,5,No,2,M,south,10,north,10
+b975c6655d58270f936964cca2a878ca,1,1,0,no,30-39,woman,European/Pākehā,Yes,north,No,Wellington,undergraduate,3,3,No,2,Wellington,long,English,NZ,None,No,No,None,3,4,No,2,Non M,north,6,north,7
+bb6eee3654645c08be06d52835732754,1,1,3,no,30-39,woman,European/Pākehā/Māori,Yes,north,No,Waikato,certificate or diploma,5,4,Yes,9,Waikato,long,English,NZ,None,No,No,None,5,5,No,2,M,north,9,north,10
+bc5bcf7a95798349a3f23e325ede9d72,1,1,1,no,30-39,woman,European/Pākehā,Yes,north,No,Auckland,undergraduate,5,4,Yes,5,Auckland,long,English,NZ,None,No,No,None,4,3,No,2,Non M,north,9,north,7
+bd0628aee4eb766bf9f97c7624cc96cf,2,1,4,lang,50-59,woman,European/Pākehā,Yes,north,No,Auckland,undergraduate,5,5,No,6,Auckland,long,English,NZ,None,No,No,None,5,2,No,3,Non M,north,10,north,7
+be14580a1603e149ef816d46f4bd7942,1,2,2,no,30-39,woman,European/Pākehā/Māori,Yes,north,No,Auckland,undergraduate,2,3,Yes,9,Wanganui,short,English,NZ,None,No,No,None,4,2,No,3,M,north,5,north,6
+be5c1c5ce4b4f98163ac3ed1dd7771f4,2,2,2,no,18-29,woman,Asian,Yes,south,No,Southland,undergraduate,3,2,No,7,Canterbury,long,English,NZ,None,No,No,None,3,3,No,4,Non M,south,5,south,6
+c1e9fe83d66c9e6a40bb3b3b0db23108,1,1,4,no,18-29,woman,European/Pākehā,Yes,south,No,Canterbury,undergraduate,5,5,No,9,Canterbury,long,English,NZ,mao,No,No,None,5,5,No,2,Non M,south,10,south,10
+c50336f93c5df3f8dc7ca462db6d63c9,1,1,1,lang,18-29,woman,European/Pākehā/Māori,Yes,north,No,Bay of Plenty,graduate,1,3,No,8,Wellington,short,English,NZ,None,No,No,None,5,5,No,2,M,north,4,north,10
+c7e8c09c8de2226f6824fb2d5831781a,2,2,4,no,18-29,woman,European/Pākehā/Māori,Yes,north,No,Bay of Plenty,certificate or diploma,3,5,Yes,9,Bay of Plenty,long,English,NZ,"mao, spa",No,No,None,5,5,No,4,M,north,8,north,10
+cb6fe857cde366057c9e1be0cfb6a13e,1,1,1,no,40-49,woman,European/Pākehā,Yes,north,No,Auckland,graduate,5,3,Yes,6,Auckland,long,English,NZ,None,No,No,None,3,2,Yes,2,Non M,north,8,north,5
+ce240975ca217a0b13182ef14ffb884b,1,1,0,no,40-49,man,European/Pākehā,Yes,south,No,Marlborough,high school,3,3,Yes,5,Canterbury,short,English,NZ,None,No,No,None,3,4,No,2,Non M,south,6,south,7
+ceb851f38035b002fce3d7a3a2e45256,1,0,1,no,40-49,woman,European/Pākehā,Yes,south,No,Canterbury,undergraduate,2,3,Yes,7,Canterbury,long,English,NZ,None,No,No,None,5,5,No,1,Non M,south,5,south,10
+cf99942c67e17fda8c33dc8657d441c0,2,2,5,no,40-49,woman,European/Pākehā,Yes,north,No,Wanganui,undergraduate,4,4,Yes,8,Wanganui,long,English,NZ,None,No,No,None,1,4,No,4,Non M,north,8,north,5
+d0a9a09e01c668408d7267ae1255d2d8,1,1,1,no,30-39,woman,European/Pākehā,Yes,north,No,Wellington,certificate or diploma,4,2,No,3,Manawatu,short,English,NZ,None,No,No,None,5,5,No,2,Non M,north,6,north,10
+d10a86f4555f7c7148c43e032738b533,1,2,0,no,50-59,woman,European/Pākehā,No,north,No,Gisborne,undergraduate,5,5,Yes,7,Gisborne,long,English,Other,None,No,No,None,5,5,No,3,Non M,north,10,north,10
+d13ba6ffc39f2aaec14ae263685ee507,1,1,1,no,18-29,woman,European/Pākehā,No,south,No,Canterbury,undergraduate,4,4,No,3,Canterbury,long,English,Other,None,No,No,None,5,5,No,2,Non M,south,8,south,10
+d1d64dd66202553586670e42c65d3e76,0,0,1,no,18-29,woman,European/Pākehā,No,north,No,Auckland,high school,1,1,No,3,Bay of Plenty,short,English,NZ,None,No,No,None,4,3,No,0,Non M,north,2,north,7
+d2d6dea7d6b3a5fd88d3d3aa2f212d8d,1,1,0,no,40-49,woman,European/Pākehā,Yes,north,No,Waikato,certificate or diploma,2,2,Yes,2,Waikato,long,English,NZ,None,No,No,None,3,2,No,2,Non M,north,4,north,5
+d4bc4ef6e82d0855ed813b20041b5430,0,0,0,no,60,woman,European/Pākehā,Yes,south,No,Canterbury,certificate or diploma,4,4,No,1,Canterbury,long,English,NZ,None,No,No,None,5,5,No,0,Non M,south,8,south,10
+d6f8565aa4654472a09fac5b2a884eca,1,2,2,no,40-49,woman,European/Pākehā,Yes,north,No,Hawke's Bay,undergraduate,5,5,Yes,7,Hawke's Bay,long,English,NZ,None,No,No,None,5,5,No,3,Non M,north,10,north,10
+d75d376d4b145fd35df73eea2eb9cc9c,1,0,0,no,50-59,woman,Māori,Yes,north,No,Wellington,certificate or diploma,2,1,No,5,Wellington,long,English,NZ,None,No,No,None,5,4,No,1,M,north,3,north,9
+d7db23976309f3f99a69332b1e23a134,1,1,1,no,30-39,woman,European/Pākehā,Yes,south,No,Marlborough,certificate or diploma,2,2,No,4,Marlborough,long,English,NZ,None,No,No,None,5,3,No,2,Non M,south,4,south,8
+dbcf099f024bad8ceadc25e978d0e9f5,1,1,1,no,60,woman,European/Pākehā,Yes,north,No,Auckland,certificate or diploma,5,5,No,5,Auckland,long,English,NZ,nzsl,No,No,None,5,5,No,2,Non M,north,10,north,10
+ddfc0bc79b615b56b2e7cc170f382a4a,1,1,0,no,18-29,NB,European/Pākehā/other_ethnicity,Yes,south,No,Canterbury,undergraduate,3,4,No,7,Wellington,short,English,NZ,None,No,No,None,5,3,No,2,Non M,south,7,north,8
+de74df46dbcc7dbcff74f846e6ea522e,1,1,0,no,18-29,NB,European/Pākehā,Yes,south,No,Canterbury,undergraduate,4,3,No,6,Nelson Bays,short,English,NZ,None,No,No,None,5,5,No,2,Non M,south,7,south,10
+deca849d254752e5fd2c9b014b65f9a9,2,2,1,no,18-29,man,European/Pākehā,Yes,north,No,Waikato,high school,3,3,No,7,Waikato,long,English,NZ,None,No,No,None,5,5,No,4,Non M,north,6,north,10
+df2fa51db92ef14c8dec2a88d08a5518,1,1,1,no,30-39,woman,European/Pākehā,Yes,south,No,Canterbury,certificate or diploma,3,4,Yes,7,Canterbury,long,English,NZ,None,No,No,None,5,5,No,2,Non M,south,7,south,10
+df402e57474b5db2957fb91d8a2b7e14,1,1,2,no,50-59,woman,European/Pākehā,Yes,north,No,Taranaki,undergraduate,4,4,Yes,8,Wanganui,short,English,NZ,None,No,No,None,4,4,No,2,Non M,north,8,north,8
+dfdd1c4289312bd559fb17337ff30f72,1,1,1,no,18-29,woman,European/Pākehā/Asian,Yes,north,No,Wellington,undergraduate,5,4,No,8,Wellington,long,English,NZ,None,No,No,None,5,5,No,2,Non M,north,9,north,10
+e4accf6caddac1cb62fb07ab6ba1228b,1,1,1,no,18-29,woman,European/Pākehā/Māori/Pacific Peoples,No,north,No,Wellington,high school,5,4,No,7,Wellington,long,English,NZ,None,No,No,None,5,5,No,2,M,north,9,north,10
+e50fb54dc62609e19b7bace02a6cd3e4,1,1,1,no,50-59,woman,European/Pākehā,Yes,north,No,Hawke's Bay,high school,5,5,Yes,4,Hawke's Bay,long,English,NZ,None,No,No,None,5,5,No,2,Non M,north,10,north,10
+e53f43cb0caca858e8290fc6ff0e3810,0,0,0,no,30-39,woman,European/Pākehā/Māori,Yes,north,No,Manawatu,undergraduate,5,5,Yes,2,Manawatu,short,English,NZ,None,No,No,None,5,1,No,0,M,north,10,north,6
+e92172955dfedead9ef3511e0acc6571,1,2,4,lang,18-29,woman,Asian,Yes,north,No,Auckland,undergraduate,5,4,No,7,Auckland,long,English,NZ,yue,No,No,None,5,5,No,3,Non M,north,9,north,10
+e9a5e36d3ab36717a309de6e8f88d025,1,1,2,no,60,woman,European/Pākehā,Yes,north,No,Auckland,certificate or diploma,5,3,No,5,Auckland,long,English,NZ,None,No,No,None,5,5,No,2,Non M,north,8,north,10
+ebdab7f2b06da03ae3e14a1a4bbb6651,1,2,3,no,40-49,woman,European/Pākehā/Māori,Yes,north,No,Gisborne,certificate or diploma,3,2,No,8,Waikato,short,English,NZ,None,No,No,None,5,5,No,3,M,north,5,north,10
+ec9924195f1b0200e37e7f4881154546,1,1,1,lang,18-29,woman,European/Pākehā,Yes,north,No,Auckland,undergraduate,3,2,No,4,Auckland,long,English,NZ,"deu,fra",No,No,None,5,5,No,2,Non M,north,5,north,10
+ecada09cc793e0cce18d67ac52cb2233,1,1,2,no,18-29,NB,European/Pākehā,Yes,north,No,Taranaki,graduate,4,4,No,5,Auckland,short,English,NZ,None,No,No,None,5,5,No,2,Non M,north,8,north,10
+eecfd841f0f8917702141dcf06d9329d,1,1,1,no,30-39,woman,European/Pākehā,Yes,north,No,Auckland,certificate or diploma,4,3,Yes,7,Wellington,long,English,NZ,None,No,No,None,5,5,No,2,Non M,north,7,north,10
+f305941854eeaee73548ef7237bd28f9,1,1,1,no,40-49,woman,European/Pākehā,Yes,north,No,Waikato,certificate or diploma,4,5,Yes,8,Waikato,long,English,NZ,None,No,No,None,4,5,No,2,Non M,north,9,north,9
+f327f2f49072b56625bd72b7bb81f0f6,1,1,1,no,18-29,woman,European/Pākehā,Yes,south,No,Otago,undergraduate,1,2,No,8,Otago,long,English,NZ,fra,No,No,None,4,4,No,2,Non M,south,3,south,8
+f61f952dc0e3dc90f509b9750df6d747,1,1,4,no,40-49,woman,European/Pākehā,Yes,south,No,Otago,undergraduate,2,4,No,3,Otago,long,English,NZ,None,No,No,None,5,5,No,2,Non M,south,6,south,10
+f798e25da0c1973bea701845ed5057f5,2,2,2,no,18-29,woman,European/Pākehā,Yes,north,No,Wellington,certificate or diploma,4,4,Yes,9,Wellington,long,English,NZ,None,No,No,None,5,5,No,4,Non M,north,8,north,10
+f855b66155edea55e08edb8e2673fd73,0,0,0,no,18-29,woman,European/Pākehā,Yes,north,No,Auckland,graduate,2,2,Yes,1,Auckland,long,English,NZ,None,No,No,None,4,4,No,0,Non M,north,4,north,8
+f8d512baf9ab01760f7ee1a69927f4c1,1,1,0,no,18-29,NB,European/Pākehā,Yes,north,No,Auckland,undergraduate,4,3,No,1,Auckland,long,English,NZ,None,No,No,None,5,5,No,2,Non M,north,7,north,10
+f96a79dea91a59d97a27bbb903ba591a,1,1,1,no,18-29,woman,European/Pākehā,Yes,south,No,Otago,graduate,4,2,No,9,Otago,long,English,NZ,fra,No,No,None,5,5,No,2,Non M,south,6,south,10
+fca711dcf56d47e1238967cf96982857,2,2,4,no,40-49,woman,European/Pākehā/Māori,Yes,south,No,Canterbury,graduate,5,4,Yes,9,Canterbury,long,English,NZ,None,No,No,None,5,5,No,4,M,south,9,south,10
+fcda7926710a3c2a282acd637c4282cf,0,0,0,no,30-39,woman,European/Pākehā,Yes,north,No,Auckland,high school,4,4,Yes,5,Auckland,long,English,NZ,None,No,No,Samoan,3,2,No,0,Non M,north,8,north,5
+fd9359a73f87afc854c7b3c8d29e43de,1,1,1,no,40-49,woman,European/Pākehā,Yes,south,No,Canterbury,certificate or diploma,5,5,Yes,7,Canterbury,long,English,NZ,spa,No,No,None,3,3,No,2,Non M,south,10,south,6
+fdc18a3ca76690b2a81b1382ad1bbff9,1,1,0,no,30-39,woman,European/Pākehā,Yes,north,No,Auckland,high school,5,4,Yes,4,Waikato,short,English,NZ,None,No,No,None,4,4,No,2,Non M,north,9,north,8
+fecd1bf0e5e7ce661c1871184d5da96f,1,1,3,no,50-59,woman,European/Pākehā,Yes,south,No,Canterbury,certificate or diploma,3,3,No,4,Canterbury,long,English,NZ,None,No,No,None,4,4,No,2,Non M,south,6,south,8
