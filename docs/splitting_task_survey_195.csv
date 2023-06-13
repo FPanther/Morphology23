@@ -1,0 +1,196 @@
+workerId,speakMaori,compMaori,maoriEducation,linguistics,age,gender,ethnicity,bornNz,island,outsideNz,regionMost,education,mediaMaori,socialMaori,children,maoriList,regionCurrentLive,duration,firstLang,firstLangCountry,otherLangs,hawaii,anyPolynesian,whichPolynesian,maoriRespect,maoriCompulsory,formerParticipants,maoriProf,ethnicity1,regionMost1,maoriExpo,regionCurrentLive1,maoriAttitude
+nz_1,1,1,1,no,40-49,woman,European/P?keh?,Yes,south,No,Otago,certificate or diploma,1,1,No,2,Otago,long,English,NZ,None,No,No,None,5,5,No,2,Non M,south,2,south,10
+nz_2,2,2,0,no,18-29,woman,European/P?keh?/Asian,Yes,north,No,Auckland,undergraduate,4,3,No,8,Auckland,long,English,NZ,spa,No,No,None,5,5,No,4,Non M,north,7,north,10
+nz_3,1,1,0,no,40-49,woman,European/P?keh?,Yes,north,No,Waikato,certificate or diploma,2,2,No,8,Waikato,short,English,NZ,None,No,No,None,5,5,No,2,Non M,north,4,north,10
+nz_4,1,1,0,no,50-59,woman,European/P?keh?,Yes,north,No,Manawatu,undergraduate,5,5,Yes,7,Manawatu,long,English,NZ,None,No,No,None,4,5,No,2,Non M,north,10,north,9
+nz_5,1,1,0,no,40-49,woman,European/P?keh?,No,south,No,Canterbury,graduate,3,3,No,2,Canterbury,long,English,Other,None,No,No,None,5,5,No,2,Non M,south,6,south,10
+nz_6,1,1,0,no,50-59,woman,European/P?keh?,Yes,north,No,Auckland,undergraduate,3,2,Yes,5,Waikato,short,English,NZ,None,No,No,None,5,4,No,2,Non M,north,5,north,9
+nz_7,1,1,1,no,50-59,woman,European/P?keh?,Yes,north,No,Hawke's Bay,certificate or diploma,5,1,Yes,2,Manawatu,short,English,NZ,None,No,No,None,5,4,No,2,Non M,north,6,north,9
+nz_8,1,1,4,no,30-39,woman,European/P?keh?/other_ethnicity,Yes,north,No,Wairarapa,undergraduate,3,5,Yes,7,Timaru - Oamaru,short,English,NZ,None,No,No,None,5,5,No,2,Non M,south,8,south,10
+nz_9,1,1,0,no,40-49,woman,M?ori,Yes,north,No,Bay of Plenty,high school,3,3,No,1,Bay of Plenty,long,English,NZ,None,No,No,None,5,5,No,2,M,north,6,north,10
+nz_10,1,1,0,no,18-29,NB,European/P?keh?,Yes,north,No,Wellington,high school,3,4,No,3,Otago,short,English,NZ,None,No,No,None,5,5,No,2,Non M,north,7,south,10
+nz_11,1,2,2,no,18-29,woman,European/P?keh?,Yes,north,No,Bay of Plenty,undergraduate,4,4,Yes,9,Bay of Plenty,short,English,NZ,None,No,No,None,5,5,No,3,Non M,north,8,north,10
+nz_12,1,2,0,no,30-39,woman,European/P?keh?,No,south,No,Canterbury,certificate or diploma,4,4,Yes,6,Canterbury,long,English,Other,None,No,No,None,5,4,No,3,Non M,south,8,south,9
+nz_13,1,1,0,no,40-49,woman,European/P?keh?,Yes,south,No,Southland,undergraduate,4,2,Yes,5,Canterbury,short,English,NZ,None,No,No,None,5,5,No,2,Non M,south,6,south,10
+nz_14,1,1,1,no,18-29,man,European/P?keh?,Yes,north,No,Taranaki,high school,2,3,No,5,Manawatu,short,English,NZ,None,No,No,None,4,3,No,2,Non M,north,5,north,7
+nz_15,1,1,1,no,40-49,woman,European/P?keh?,Yes,south,No,Canterbury,certificate or diploma,4,3,Yes,5,Canterbury,long,English,NZ,None,No,No,None,5,4,No,2,Non M,south,7,south,9
+nz_16,1,1,0,no,30-39,woman,European/P?keh?,Yes,south,No,Otago,certificate or diploma,3,2,Yes,2,Southland,short,English,NZ,None,No,No,None,5,3,No,2,Non M,south,5,south,8
+nz_17,1,1,2,no,30-39,woman,European/P?keh?,Yes,north,No,Taranaki,high school,4,2,Yes,6,Taranaki,long,English,NZ,None,No,No,None,4,4,No,2,Non M,north,6,north,8
+nz_18,1,1,0,no,60,man,European/P?keh?,Yes,north,No,Manawatu,graduate,5,4,No,4,Canterbury,long,English,NZ,None,No,No,None,5,5,No,2,Non M,north,9,south,10
+nz_19,1,0,1,no,30-39,woman,European/P?keh?,Yes,south,No,Canterbury,high school,4,2,Yes,5,Nelson Bays,short,English,NZ,None,No,No,None,5,5,No,1,Non M,south,6,south,10
+nz_20,1,2,1,no,18-29,woman,European/P?keh?,No,north,No,Auckland,graduate,3,5,No,8,Auckland,long,English,NZ,None,No,No,None,5,5,No,3,Non M,north,8,north,10
+nz_21,1,1,1,no,30-39,woman,European/P?keh?,Yes,north,No,Waikato,certificate or diploma,2,2,Yes,6,Waikato,long,English,NZ,None,No,No,None,4,4,Yes,2,Non M,north,4,north,8
+nz_22,1,2,3,no,40-49,man,European/P?keh?,Yes,south,No,Canterbury,certificate or diploma,5,2,Yes,6,Canterbury,long,English,NZ,None,No,No,None,4,3,No,3,Non M,south,7,south,7
+nz_23,1,1,1,no,40-49,woman,European/P?keh?,Yes,north,No,Wellington,undergraduate,5,3,Yes,8,Wairarapa,short,English,NZ,None,No,No,None,4,5,No,2,Non M,north,8,south,9
+nz_24,1,1,1,no,30-39,woman,European/P?keh?,Yes,north,No,Auckland,undergraduate,4,4,Yes,3,Auckland,long,English,NZ,None,No,No,None,5,5,No,2,Non M,north,8,north,10
+nz_25,1,1,1,no,18-29,woman,European/P?keh?,Yes,south,No,Canterbury,undergraduate,3,4,No,6,Canterbury,short,English,NZ,None,No,No,None,5,5,No,2,Non M,south,7,south,10
+nz_26,2,2,1,lang,50-59,woman,European/P?keh?,Yes,north,No,Wellington,certificate or diploma,5,4,Yes,6,Wellington,long,English,NZ,None,No,No,None,5,5,No,4,Non M,north,9,north,10
+nz_27,1,1,1,no,30-39,woman,European/P?keh?,Yes,south,No,Canterbury,graduate,5,4,Yes,9,Northland,short,English,NZ,None,No,No,None,5,5,No,2,Non M,south,9,north,10
+nz_28,1,1,1,no,18-29,NB,European/P?keh?,Yes,north,No,Auckland,high school,5,3,No,7,Auckland,long,English,NZ,None,No,No,None,4,2,No,2,Non M,north,8,north,6
+nz_29,1,1,1,no,30-39,woman,European/P?keh?/M?ori,Yes,north,No,Bay of Plenty,high school,5,5,Yes,6,Bay of Plenty,long,English,NZ,None,No,No,None,5,5,Yes,2,M,north,10,north,10
+nz_30,1,1,1,no,40-49,woman,European/P?keh?,Yes,north,No,Waikato,certificate or diploma,5,4,Yes,8,Wairarapa,short,English,NZ,None,No,No,None,5,5,No,2,Non M,north,9,south,10
+nz_31,1,1,0,no,60,woman,European/P?keh?,Yes,north,No,Taranaki,certificate or diploma,3,3,No,1,Taranaki,long,English,NZ,None,No,No,None,5,5,Yes,2,Non M,north,6,north,10
+nz_32,1,1,2,no,40-49,woman,European/P?keh?/M?ori,Yes,north,No,Bay of Plenty,undergraduate,4,4,Yes,7,Bay of Plenty,long,English,NZ,None,No,No,None,5,5,No,2,M,north,8,north,10
+nz_33,1,1,1,no,18-29,woman,European/P?keh?,Yes,north,No,Manawatu,high school,4,3,No,9,Canterbury,short,English,NZ,None,No,No,None,5,5,No,2,Non M,north,7,south,10
+nz_34,2,2,2,no,40-49,woman,M?ori,Yes,north,No,Wellington,certificate or diploma,3,4,Yes,8,Wellington,long,English,NZ,None,No,No,None,5,5,No,4,M,north,7,north,10
+nz_35,1,2,3,no,30-39,woman,European/P?keh?,Yes,north,No,Hawke's Bay,undergraduate,5,5,No,8,Hawke's Bay,short,English,NZ,None,No,No,None,5,5,No,3,Non M,north,10,north,10
+nz_36,1,1,1,no,18-29,woman,European/P?keh?/other_ethnicity,Yes,north,No,Wellington,high school,4,2,No,7,Otago,short,English,NZ,fra,No,No,None,5,5,No,2,Non M,north,6,south,10
+nz_37,0,0,0,no,30-39,woman,European/P?keh?,Yes,south,No,Canterbury,high school,3,1,Yes,2,Canterbury,long,English,NZ,jpn,No,No,None,4,3,No,0,Non M,south,4,south,7
+nz_38,1,1,1,lang,18-29,man,European/P?keh?/M?ori,Yes,south,No,Otago,undergraduate,5,1,No,3,Otago,long,English,NZ,None,No,No,None,3,3,No,2,M,south,6,south,6
+nz_39,0,2,2,no,30-39,NS,European/P?keh?,Yes,north,No,Wellington,undergraduate,2,4,No,6,Canterbury,long,English,NZ,None,No,No,None,5,5,No,2,Non M,north,6,south,10
+nz_40,1,2,2,no,30-39,woman,European/P?keh?,Yes,north,No,Hawke's Bay,certificate or diploma,4,4,Yes,8,Hawke's Bay,long,English,NZ,None,No,No,None,4,3,No,3,Non M,north,8,north,7
+nz_41,1,1,2,no,30-39,woman,European/P?keh?,Yes,north,No,Taranaki,certificate or diploma,4,5,Yes,8,Taranaki,long,English,NZ,None,No,No,None,5,5,No,2,Non M,north,9,north,10
+nz_42,1,0,0,no,18-29,woman,European/P?keh?,Yes,south,No,Canterbury,high school,4,3,No,4,Canterbury,long,English,NZ,jpn,No,No,None,4,4,Yes,1,Non M,south,7,south,8
+nz_43,0,0,1,no,18-29,woman,Asian,Yes,north,No,Auckland,undergraduate,2,1,No,1,Wellington,short,English,NZ,cmn,No,No,None,5,3,No,0,Non M,north,3,north,8
+nz_44,1,0,0,no,18-29,woman,European/P?keh?,Yes,north,No,Manawatu,high school,3,1,Yes,5,Manawatu,long,English,NZ,None,No,No,None,5,5,No,1,Non M,north,4,north,10
+nz_45,1,1,1,no,18-29,NB,European/P?keh?,Yes,north,No,Wellington,high school,4,3,No,6,Wellington,long,English,NZ,None,No,No,None,4,5,No,2,Non M,north,7,north,9
+nz_46,2,2,0,no,40-49,woman,European/P?keh?/M?ori,Yes,north,No,Auckland,undergraduate,5,4,Yes,8,Hawke's Bay,long,English,NZ,None,No,No,None,5,5,No,4,M,north,9,north,10
+nz_47,1,1,2,no,50-59,woman,other_ethnicity,Yes,north,No,Waikato,undergraduate,4,4,No,4,Auckland,long,English,NZ,None,No,No,None,3,4,No,2,Non M,north,8,north,7
+nz_48,1,1,4,lang,18-29,woman,European/P?keh?,Yes,north,No,Bay of Plenty,certificate or diploma,4,3,No,8,Waikato,short,English,NZ,None,No,No,None,4,4,No,2,Non M,north,7,north,8
+nz_49,1,1,3,no,50-59,woman,European/P?keh?,Yes,south,No,Otago,certificate or diploma,3,3,Yes,4,Otago,long,English,NZ,None,No,No,None,4,5,No,2,Non M,south,6,south,9
+nz_50,1,2,2,no,60,NS,European/P?keh?/other_ethnicity,Yes,north,No,Waikato,undergraduate,5,5,No,7,Waikato,long,English,NZ,None,No,No,None,5,5,No,3,Non M,north,10,north,10
+nz_51,1,1,0,no,60,woman,European/P?keh?,Yes,north,No,Northland,high school,4,4,No,2,Northland,long,English,NZ,None,No,No,None,5,5,No,2,Non M,north,8,north,10
+nz_52,1,0,0,no,30-39,woman,Middle Eastern_Latin American_African,No,north,No,Auckland,undergraduate,3,3,No,2,Auckland,long,English,Other,None,No,No,None,4,3,No,1,Non M,north,6,north,7
+nz_53,1,1,1,no,18-29,woman,European/P?keh?,Yes,south,No,Canterbury,undergraduate,5,4,No,7,Canterbury,long,English,NZ,None,No,No,None,5,5,No,2,Non M,south,9,south,10
+nz_54,1,1,1,no,18-29,woman,European/P?keh?/M?ori,Yes,north,No,Manawatu,high school,1,2,Yes,4,Canterbury,short,English,NZ,None,No,No,None,5,5,No,2,M,north,3,south,10
+nz_55,2,2,2,no,40-49,woman,European/P?keh?/M?ori,Yes,south,No,Southland,certificate or diploma,4,4,Yes,8,Southland,long,English,NZ,None,No,No,None,5,5,No,4,M,south,8,south,10
+nz_56,1,1,0,no,18-29,NS,European/P?keh?/Asian,Yes,north,No,Wellington,high school,2,2,No,6,Wellington,long,English,NZ,None,No,No,None,5,5,No,2,Non M,north,4,north,10
+nz_57,1,1,1,no,40-49,woman,European/P?keh?/M?ori,Yes,north,No,Bay of Plenty,graduate,4,5,No,7,Waikato,short,English,NZ,None,No,No,None,5,5,No,2,M,north,9,north,10
+nz_58,1,1,0,no,60,woman,European/P?keh?,Yes,north,No,Wellington,certificate or diploma,4,5,No,7,Wellington,long,English,NZ,None,No,No,None,5,5,No,2,Non M,north,9,north,10
+nz_59,2,2,0,no,60,woman,European/P?keh?,Yes,south,No,Canterbury,graduate,2,4,No,8,Canterbury,long,English,NZ,None,No,No,None,5,5,No,4,Non M,south,6,south,10
+nz_60,0,0,0,no,30-39,man,European/P?keh?,Yes,north,No,Auckland,undergraduate,2,2,Yes,1,Auckland,long,English,NZ,None,No,No,None,3,3,No,0,Non M,north,4,north,6
+nz_61,1,1,0,no,40-49,woman,European/P?keh?,Yes,north,No,Auckland,undergraduate,3,3,Yes,3,Auckland,long,English,NZ,None,No,No,None,5,5,No,2,Non M,north,6,north,10
+nz_62,0,1,0,no,18-29,woman,European/P?keh?,Yes,north,No,Manawatu,undergraduate,1,1,Yes,5,Wellington,short,English,NZ,"fra,prt",No,No,None,5,5,No,1,Non M,north,2,north,10
+nz_63,2,2,4,no,18-29,woman,European/P?keh?,Yes,north,No,Auckland,certificate or diploma,4,4,No,4,Canterbury,long,English,NZ,None,No,No,None,5,5,No,4,Non M,north,8,south,10
+nz_64,0,0,0,no,30-39,woman,European/P?keh?,Yes,north,No,Auckland,undergraduate,1,3,No,0,Auckland,short,English,NZ,None,No,No,None,3,3,No,0,Non M,north,4,north,6
+nz_65,2,2,1,no,18-29,man,Asian,Yes,north,No,Auckland,undergraduate,3,2,No,1,Auckland,long,English,NZ,None,No,No,None,2,2,No,4,Non M,north,5,north,4
+nz_66,1,1,1,lang,18-29,woman,European/P?keh?/Asian,Yes,north,No,Auckland,undergraduate,4,2,No,7,Auckland,long,English,NZ,None,No,No,None,5,5,No,2,Non M,north,6,north,10
+nz_67,0,0,0,no,18-29,woman,Asian,Yes,north,No,Wellington,high school,3,4,No,3,Auckland,short,English,NZ,fra,No,No,None,4,4,No,0,Non M,north,7,north,8
+nz_68,1,1,1,no,18-29,woman,European/P?keh?,Yes,south,No,Canterbury,undergraduate,2,2,No,6,Canterbury,long,English,NZ,None,No,No,None,5,5,No,2,Non M,south,4,south,10
+nz_69,1,1,0,no,18-29,woman,European/P?keh?,Yes,north,No,Taranaki,high school,3,3,Yes,9,Taranaki,long,English,NZ,None,No,No,None,4,3,No,2,Non M,north,6,north,7
+nz_70,1,1,1,no,30-39,man,European/P?keh?,Yes,north,No,Bay of Plenty,undergraduate,2,2,No,6,Waikato,short,English,NZ,None,No,No,None,5,5,Yes,2,Non M,north,4,north,10
+nz_71,1,1,1,no,40-49,woman,European/P?keh?,Yes,south,No,Canterbury,graduate,5,5,No,9,Canterbury,long,English,NZ,None,No,No,None,5,4,Yes,2,Non M,south,10,south,9
+nz_72,2,2,0,no,18-29,woman,European/P?keh?,Yes,north,No,Manawatu,high school,4,4,No,8,Wellington,short,English,NZ,None,No,No,None,5,5,No,4,Non M,north,8,north,10
+nz_73,1,1,1,no,18-29,woman,European/P?keh?,No,south,No,Canterbury,certificate or diploma,3,2,No,4,Canterbury,long,English,NZ,wls,No,No,None,5,5,No,2,Non M,south,5,south,10
+nz_74,1,1,4,no,40-49,woman,European/P?keh?,Yes,south,No,Canterbury,certificate or diploma,4,4,Yes,2,Canterbury,long,English,NZ,None,No,No,None,4,4,No,2,Non M,south,8,south,8
+nz_75,1,1,1,no,30-39,woman,European/P?keh?,Yes,north,No,Manawatu,certificate or diploma,3,3,Yes,6,Manawatu,long,English,NZ,None,No,No,None,5,5,No,2,Non M,north,6,north,10
+nz_76,1,1,1,no,18-29,man,European/P?keh?/M?ori,Yes,south,No,Southland,high school,5,5,No,8,Canterbury,short,English,NZ,None,No,No,None,5,5,No,2,M,south,10,south,10
+nz_77,1,0,0,no,60,woman,European/P?keh?,Yes,north,No,Gisborne,certificate or diploma,2,3,No,2,Gisborne,long,English,NZ,None,No,No,None,2,4,No,1,Non M,north,5,north,6
+nz_78,2,1,0,no,18-29,woman,European/P?keh?/Asian,Yes,north,No,Auckland,undergraduate,2,2,No,9,Taranaki,short,English,NZ,tha,No,No,None,5,5,No,3,Non M,north,4,north,10
+nz_79,1,2,1,no,18-29,man,European/P?keh?,Yes,north,No,Bay of Plenty,graduate,3,4,No,6,Otago,short,English,NZ,None,No,No,None,5,4,Yes,3,Non M,north,7,south,9
+nz_80,1,2,3,no,60,woman,M?ori,Yes,north,No,Auckland,certificate or diploma,4,1,No,6,Bay of Plenty,long,English,NZ,None,No,No,None,3,1,No,3,M,north,5,north,4
+nz_81,0,1,0,no,50-59,man,European/P?keh?,No,equal,No,Wellington,certificate or diploma,2,1,Yes,3,Wellington,long,English,NZ,None,No,No,None,4,5,No,1,Non M,north,3,north,9
+nz_82,1,1,0,no,40-49,woman,European/P?keh?,Yes,equal,No,Nelson Bays,undergraduate,4,4,Yes,6,Auckland,long,English,NZ,None,No,No,None,5,5,No,2,Non M,south,8,north,10
+nz_83,1,1,1,no,18-29,man,European/P?keh?,Yes,south,No,Timaru - Oamaru,undergraduate,3,3,No,4,Otago,short,English,NZ,None,No,No,None,5,5,No,2,Non M,south,6,south,10
+nz_84,1,1,0,no,18-29,woman,European/P?keh?,Yes,north,No,Auckland,certificate or diploma,4,5,No,6,Auckland,short,English,NZ,None,No,No,None,5,5,No,2,Non M,north,9,north,10
+nz_85,1,1,0,no,40-49,woman,European/P?keh?,Yes,north,No,Auckland,high school,1,2,Yes,3,Auckland,long,English,NZ,None,No,No,None,4,3,No,2,Non M,north,3,north,7
+nz_86,1,0,0,no,50-59,woman,European/P?keh?,Yes,north,No,Hawke's Bay,high school,4,4,No,0,Hawke's Bay,long,English,NZ,None,No,No,None,4,4,Yes,1,Non M,north,8,north,8
+nz_87,1,0,0,no,50-59,man,European/P?keh?,Yes,south,No,Canterbury,undergraduate,5,5,No,3,Canterbury,long,English,NZ,None,No,No,None,3,3,No,1,Non M,south,10,south,6
+nz_88,1,1,4,no,60,woman,European/P?keh?,No,north,No,Auckland,undergraduate,5,4,No,8,Auckland,long,English,Other,None,No,No,None,5,5,No,2,Non M,north,9,north,10
+nz_89,1,1,0,no,30-39,woman,European/P?keh?/Pacific Peoples/other_ethnicity,Yes,south,No,Canterbury,graduate,4,5,No,7,Canterbury,long,English,NZ,deu,No,No,None,5,5,No,2,Non M,south,9,south,10
+nz_90,2,2,1,no,18-29,woman,European/P?keh?/M?ori,Yes,north,No,Auckland,undergraduate,5,3,Yes,9,Auckland,long,English,NZ,None,No,No,None,5,4,No,4,M,north,8,north,9
+nz_91,1,2,3,no,50-59,woman,European/P?keh?,Yes,north,No,Bay of Plenty,certificate or diploma,4,2,No,7,Bay of Plenty,long,English,NZ,None,No,No,None,5,5,No,3,Non M,north,6,north,10
+nz_92,1,1,1,no,30-39,woman,European/P?keh?,Yes,north,No,Auckland,certificate or diploma,4,3,Yes,6,Timaru - Oamaru,short,English,NZ,None,No,No,None,5,5,Yes,2,Non M,north,7,south,10
+nz_93,0,0,0,no,60,NB,other_ethnicity,Yes,north,No,Auckland,undergraduate,5,1,No,0,Auckland,long,English,NZ,"fra,lat",No,No,None,1,NA,No,0,Non M,north,6,north,NA
+nz_94,1,2,1,no,18-29,woman,M?ori,Yes,north,No,Auckland,graduate,5,4,No,9,Hawke's Bay,short,English,NZ,None,No,No,None,5,5,No,3,M,north,9,north,10
+nz_95,1,1,0,no,60,woman,European/P?keh?/M?ori,Yes,north,No,Bay of Plenty,certificate or diploma,2,2,No,3,Bay of Plenty,long,English,NZ,None,No,No,None,5,4,No,2,M,north,4,north,9
+nz_96,1,2,3,no,18-29,woman,European/P?keh?/M?ori,Yes,north,No,Waikato,high school,4,4,No,9,Bay of Plenty,short,English,NZ,None,No,No,None,5,5,No,3,M,north,8,north,10
+nz_97,1,1,1,no,40-49,woman,European/P?keh?,Yes,north,No,Southland,certificate or diploma,4,4,No,4,Southland,long,English,NZ,None,No,No,None,5,5,No,2,Non M,south,8,south,10
+nz_98,1,1,2,no,18-29,NB,European/P?keh?,Yes,north,No,Auckland,high school,4,2,No,4,Auckland,long,English,NZ,None,No,No,None,5,4,No,2,Non M,north,6,north,9
+nz_99,1,1,0,no,30-39,woman,European/P?keh?,Yes,north,No,Auckland,certificate or diploma,5,5,No,7,Auckland,long,English,NZ,None,No,No,None,4,5,Yes,2,Non M,north,10,north,9
+nz_100,2,2,1,lang,30-39,NB,European/P?keh?/M?ori,Yes,north,No,Taranaki,certificate or diploma,4,2,No,6,Taranaki,long,English,NZ,None,No,No,None,5,5,No,4,M,north,6,north,10
+nz_101,2,2,3,no,30-39,woman,European/P?keh?/M?ori,Yes,north,No,Waikato,graduate,5,5,Yes,9,Waikato,long,English,NZ,None,No,No,None,5,5,No,4,M,north,10,north,10
+nz_102,0,0,0,no,18-29,woman,European/P?keh?/Asian,Yes,north,No,Bay of Plenty,high school,1,1,Yes,1,Canterbury,short,English,NZ,"cmn,yue",No,No,None,3,3,No,0,Non M,north,2,south,6
+nz_103,1,1,1,no,30-39,woman,European/P?keh?/M?ori,Yes,north,No,Waikato,graduate,3,5,Yes,7,Waikato,short,English,NZ,None,No,No,None,5,5,No,2,M,north,8,north,10
+nz_104,1,1,4,no,50-59,woman,European/P?keh?,Yes,south,No,Canterbury,undergraduate,4,4,No,4,Canterbury,long,English,NZ,None,No,No,None,5,5,No,2,Non M,south,8,south,10
+nz_105,1,1,0,no,18-29,woman,European/P?keh?/Asian,Yes,north,No,Taranaki,graduate,4,3,No,7,Waikato,short,English,NZ,None,No,No,None,5,4,No,2,Non M,north,7,north,9
+nz_106,1,1,0,no,40-49,woman,European/P?keh?,Yes,north,No,Waikato,undergraduate,4,4,No,2,Waikato,long,English,NZ,None,No,No,None,3,3,No,2,Non M,north,8,north,6
+nz_107,1,1,0,no,50-59,woman,European/P?keh?,Yes,north,No,Auckland,high school,3,2,No,2,Manawatu,short,English,NZ,None,No,No,None,5,4,No,2,Non M,north,5,north,9
+nz_108,1,1,1,lang,30-39,man,European/P?keh?,Yes,north,No,Auckland,certificate or diploma,5,5,No,7,Auckland,long,English,NZ,None,No,No,None,5,5,No,2,Non M,north,10,north,10
+nz_109,1,1,0,no,50-59,woman,European/P?keh?,No,north,No,Auckland,undergraduate,3,2,No,6,Auckland,long,English,Other,None,No,No,None,5,5,No,2,Non M,north,5,north,10
+nz_110,1,1,1,no,40-49,woman,M?ori,Yes,north,No,Bay of Plenty,high school,3,3,No,2,Bay of Plenty,long,English,NZ,None,No,No,None,5,5,No,2,M,north,6,north,10
+nz_111,1,2,2,no,40-49,woman,European/P?keh?,Yes,south,No,Canterbury,graduate,5,2,Yes,9,Canterbury,long,English,NZ,None,No,No,None,5,5,No,3,Non M,south,7,south,10
+nz_112,1,1,2,no,30-39,NB,European/P?keh?,Yes,north,No,Waikato,certificate or diploma,3,3,Yes,7,Waikato,long,English,NZ,None,No,No,None,5,5,No,2,Non M,north,6,north,10
+nz_113,1,1,1,no,40-49,man,European/P?keh?/M?ori,Yes,south,No,Canterbury,high school,5,2,Yes,4,Canterbury,long,English,NZ,None,No,No,None,4,4,No,2,M,south,7,south,8
+nz_114,1,1,1,no,40-49,woman,European/P?keh?,Yes,south,No,Otago,graduate,4,3,No,5,Otago,long,English,NZ,None,No,No,None,5,5,Yes,2,Non M,south,7,south,10
+nz_115,1,1,2,no,30-39,man,European/P?keh?,Yes,north,No,Bay of Plenty,high school,2,2,Yes,0,Bay of Plenty,long,English,NZ,None,No,No,None,3,2,No,2,Non M,north,4,north,5
+nz_116,1,1,5,no,50-59,woman,European/P?keh?,No,south,No,Otago,graduate,4,4,No,3,Otago,long,English,Other,None,No,No,None,5,5,No,2,Non M,south,8,south,10
+nz_117,1,2,0,no,60,woman,European/P?keh?,Yes,south,No,Otago,graduate,5,4,No,7,Otago,long,English,NZ,None,No,No,None,3,2,No,3,Non M,south,9,south,5
+nz_118,2,2,0,no,18-29,woman,European/P?keh?,Yes,north,No,Auckland,undergraduate,3,3,No,7,Auckland,long,English,NZ,None,No,No,None,5,5,No,4,Non M,north,6,north,10
+nz_119,1,1,2,no,18-29,woman,Asian,Yes,north,No,Auckland,high school,3,2,No,5,Auckland,long,English,NZ,cmn,No,No,None,4,4,No,2,Non M,north,5,north,8
+nz_120,2,2,0,no,60,woman,European/P?keh?,Yes,north,No,Manawatu,certificate or diploma,4,4,No,4,Manawatu,long,English,NZ,None,No,No,None,5,5,No,4,Non M,north,8,north,10
+nz_121,2,2,5,no,40-49,woman,European/P?keh?,Yes,north,No,Auckland,graduate,4,3,Yes,9,Auckland,long,English,NZ,None,No,No,None,5,4,No,4,Non M,north,7,north,9
+nz_122,0,2,0,no,30-39,woman,European/P?keh?,Yes,south,No,Canterbury,graduate,1,3,No,1,Canterbury,long,English,NZ,None,No,No,None,3,4,No,2,Non M,south,4,south,7
+nz_123,1,1,1,no,40-49,woman,European/P?keh?/M?ori,Yes,south,No,Canterbury,high school,4,4,No,7,Timaru - Oamaru,short,English,NZ,None,No,No,None,5,4,No,2,M,south,8,south,9
+nz_124,1,1,1,no,18-29,woman,European/P?keh?,Yes,equal,No,Canterbury,undergraduate,3,2,No,5,Canterbury,short,English,NZ,None,No,No,None,5,5,No,2,Non M,south,5,south,10
+nz_125,1,0,1,no,40-49,woman,European/P?keh?,Yes,south,No,Southland,high school,3,2,No,5,Southland,long,English,NZ,None,No,No,None,3,2,No,1,Non M,south,5,south,5
+nz_126,1,1,1,no,30-39,woman,other_ethnicity,Yes,south,No,Canterbury,high school,2,2,Yes,7,Canterbury,long,English,NZ,None,No,No,None,3,3,No,2,Non M,south,4,south,6
+nz_127,1,1,1,no,18-29,woman,Asian,Yes,south,No,Canterbury,undergraduate,4,4,No,5,Wellington,short,English,NZ,None,No,No,None,5,3,Yes,2,Non M,south,8,north,8
+nz_128,2,1,4,lang,60,woman,European/P?keh?,Yes,south,No,Otago,graduate,1,5,No,8,Otago,long,English,NZ,None,No,No,None,5,5,No,3,Non M,south,6,south,10
+nz_129,1,1,1,no,18-29,woman,European/P?keh?/M?ori,Yes,north,No,Waikato,high school,3,2,Yes,8,Waikato,long,English,NZ,None,No,No,None,5,5,No,2,M,north,5,north,10
+nz_130,2,2,5,no,30-39,man,European/P?keh?,Yes,equal,No,Canterbury,graduate,3,2,Yes,6,Canterbury,short,English,NZ,None,No,No,None,5,3,No,4,Non M,south,5,south,8
+nz_131,1,1,1,no,30-39,woman,European/P?keh?,Yes,north,No,Waikato,certificate or diploma,3,3,Yes,6,Wellington,long,English,NZ,None,No,No,None,4,5,Yes,2,Non M,north,6,north,9
+nz_132,1,1,1,no,18-29,woman,European/P?keh?/M?ori,Yes,north,No,Auckland,high school,4,5,Yes,8,Canterbury,short,English,NZ,None,No,No,None,5,5,Yes,2,M,north,9,south,10
+nz_133,0,1,0,no,60,man,European/P?keh?,Yes,north,No,Wellington,undergraduate,5,4,No,1,Wellington,long,English,NZ,None,No,No,None,5,5,No,1,Non M,north,9,north,10
+nz_134,0,0,0,no,18-29,woman,European/P?keh?/Asian,Yes,north,No,Auckland,high school,2,3,No,1,Auckland,long,English,NZ,None,No,No,None,3,3,No,0,Non M,north,5,north,6
+nz_135,1,1,0,no,18-29,NB,European/P?keh?,Yes,south,No,Canterbury,undergraduate,4,2,Yes,5,Canterbury,long,English,NZ,nzsl,No,No,None,5,5,Yes,2,Non M,south,6,south,10
+nz_136,2,2,0,no,18-29,woman,European/P?keh?,Yes,north,No,Waikato,graduate,5,4,No,9,Wellington,short,English,NZ,None,No,No,None,5,4,No,4,Non M,north,9,north,9
+nz_137,1,0,0,no,50-59,woman,European/P?keh?,Yes,south,No,Canterbury,graduate,5,3,Yes,8,Canterbury,long,English,NZ,fra,No,No,None,5,5,No,1,Non M,south,8,south,10
+nz_138,0,0,0,lang,60,woman,European/P?keh?,Yes,south,No,Southland,undergraduate,4,4,No,2,Southland,long,English,NZ,"fra,deu,jpn",No,No,None,5,4,No,0,Non M,south,8,south,9
+nz_139,1,1,1,no,18-29,woman,European/P?keh?,Yes,north,No,Auckland,high school,4,2,No,7,Auckland,long,English,NZ,spa,No,No,None,5,4,No,2,Non M,north,6,north,9
+nz_140,0,0,0,no,30-39,man,European/P?keh?,Yes,north,No,Auckland,graduate,2,2,Yes,0,Waikato,long,English,NZ,None,No,No,None,3,3,No,0,Non M,north,4,north,6
+nz_141,0,1,0,no,18-29,woman,European/P?keh?,No,north,No,Auckland,certificate or diploma,3,3,No,2,Auckland,long,English,NZ,afr,No,No,None,5,4,No,1,Non M,north,6,north,9
+nz_142,1,2,0,no,40-49,woman,M?ori,Yes,north,No,Bay of Plenty,certificate or diploma,2,1,Yes,7,Bay of Plenty,long,English,NZ,None,No,No,None,3,3,No,3,M,north,3,north,6
+nz_143,1,1,1,no,18-29,woman,European/P?keh?,Yes,north,No,Taranaki,graduate,4,4,No,7,Manawatu,short,English,NZ,None,No,No,None,5,5,No,2,Non M,north,8,north,10
+nz_144,1,1,0,no,18-29,woman,European/P?keh?,Yes,north,No,Hawke's Bay,high school,4,4,No,2,Hawke's Bay,long,English,NZ,None,No,No,None,4,4,No,2,Non M,north,8,north,8
+nz_145,1,1,1,no,30-39,man,European/P?keh?/M?ori,Yes,equal,No,Otago,undergraduate,5,5,No,6,Waikato,short,English,NZ,None,No,No,None,5,5,No,2,M,south,10,north,10
+nz_146,1,1,0,no,30-39,woman,European/P?keh?,Yes,north,No,Wellington,undergraduate,3,3,No,2,Wellington,long,English,NZ,None,No,No,None,3,4,No,2,Non M,north,6,north,7
+nz_147,1,1,3,no,30-39,woman,European/P?keh?/M?ori,Yes,north,No,Waikato,certificate or diploma,5,4,Yes,9,Waikato,long,English,NZ,None,No,No,None,5,5,No,2,M,north,9,north,10
+nz_148,1,1,1,no,30-39,woman,European/P?keh?,Yes,north,No,Auckland,undergraduate,5,4,Yes,5,Auckland,long,English,NZ,None,No,No,None,4,3,No,2,Non M,north,9,north,7
+nz_149,2,1,4,lang,50-59,woman,European/P?keh?,Yes,north,No,Auckland,undergraduate,5,5,No,6,Auckland,long,English,NZ,None,No,No,None,5,2,No,3,Non M,north,10,north,7
+nz_150,1,2,2,no,30-39,woman,European/P?keh?/M?ori,Yes,north,No,Auckland,undergraduate,2,3,Yes,9,Wanganui,short,English,NZ,None,No,No,None,4,2,No,3,M,north,5,north,6
+nz_151,2,2,2,no,18-29,woman,Asian,Yes,south,No,Southland,undergraduate,3,2,No,7,Canterbury,long,English,NZ,None,No,No,None,3,3,No,4,Non M,south,5,south,6
+nz_152,1,1,4,no,18-29,woman,European/P?keh?,Yes,south,No,Canterbury,undergraduate,5,5,No,9,Canterbury,long,English,NZ,mao,No,No,None,5,5,No,2,Non M,south,10,south,10
+nz_153,1,1,1,lang,18-29,woman,European/P?keh?/M?ori,Yes,north,No,Bay of Plenty,graduate,1,3,No,8,Wellington,short,English,NZ,None,No,No,None,5,5,No,2,M,north,4,north,10
+nz_154,2,2,4,no,18-29,woman,European/P?keh?/M?ori,Yes,north,No,Bay of Plenty,certificate or diploma,3,5,Yes,9,Bay of Plenty,long,English,NZ,"mao, spa",No,No,None,5,5,No,4,M,north,8,north,10
+nz_155,1,1,1,no,40-49,woman,European/P?keh?,Yes,north,No,Auckland,graduate,5,3,Yes,6,Auckland,long,English,NZ,None,No,No,None,3,2,Yes,2,Non M,north,8,north,5
+nz_156,1,1,0,no,40-49,man,European/P?keh?,Yes,south,No,Marlborough,high school,3,3,Yes,5,Canterbury,short,English,NZ,None,No,No,None,3,4,No,2,Non M,south,6,south,7
+nz_157,1,0,1,no,40-49,woman,European/P?keh?,Yes,south,No,Canterbury,undergraduate,2,3,Yes,7,Canterbury,long,English,NZ,None,No,No,None,5,5,No,1,Non M,south,5,south,10
+nz_158,2,2,5,no,40-49,woman,European/P?keh?,Yes,north,No,Wanganui,undergraduate,4,4,Yes,8,Wanganui,long,English,NZ,None,No,No,None,1,4,No,4,Non M,north,8,north,5
+nz_159,1,1,1,no,30-39,woman,European/P?keh?,Yes,north,No,Wellington,certificate or diploma,4,2,No,3,Manawatu,short,English,NZ,None,No,No,None,5,5,No,2,Non M,north,6,north,10
+nz_160,1,2,0,no,50-59,woman,European/P?keh?,No,north,No,Gisborne,undergraduate,5,5,Yes,7,Gisborne,long,English,Other,None,No,No,None,5,5,No,3,Non M,north,10,north,10
+nz_161,1,1,1,no,18-29,woman,European/P?keh?,No,south,No,Canterbury,undergraduate,4,4,No,3,Canterbury,long,English,Other,None,No,No,None,5,5,No,2,Non M,south,8,south,10
+nz_162,0,0,1,no,18-29,woman,European/P?keh?,No,north,No,Auckland,high school,1,1,No,3,Bay of Plenty,short,English,NZ,None,No,No,None,4,3,No,0,Non M,north,2,north,7
+nz_163,1,1,0,no,40-49,woman,European/P?keh?,Yes,north,No,Waikato,certificate or diploma,2,2,Yes,2,Waikato,long,English,NZ,None,No,No,None,3,2,No,2,Non M,north,4,north,5
+nz_164,0,0,0,no,60,woman,European/P?keh?,Yes,south,No,Canterbury,certificate or diploma,4,4,No,1,Canterbury,long,English,NZ,None,No,No,None,5,5,No,0,Non M,south,8,south,10
+nz_165,1,2,2,no,40-49,woman,European/P?keh?,Yes,north,No,Hawke's Bay,undergraduate,5,5,Yes,7,Hawke's Bay,long,English,NZ,None,No,No,None,5,5,No,3,Non M,north,10,north,10
+nz_166,1,0,0,no,50-59,woman,M?ori,Yes,north,No,Wellington,certificate or diploma,2,1,No,5,Wellington,long,English,NZ,None,No,No,None,5,4,No,1,M,north,3,north,9
+nz_167,1,1,1,no,30-39,woman,European/P?keh?,Yes,south,No,Marlborough,certificate or diploma,2,2,No,4,Marlborough,long,English,NZ,None,No,No,None,5,3,No,2,Non M,south,4,south,8
+nz_168,1,1,1,no,60,woman,European/P?keh?,Yes,north,No,Auckland,certificate or diploma,5,5,No,5,Auckland,long,English,NZ,nzsl,No,No,None,5,5,No,2,Non M,north,10,north,10
+nz_169,1,1,0,no,18-29,NB,European/P?keh?/other_ethnicity,Yes,south,No,Canterbury,undergraduate,3,4,No,7,Wellington,short,English,NZ,None,No,No,None,5,3,No,2,Non M,south,7,north,8
+nz_170,1,1,0,no,18-29,NB,European/P?keh?,Yes,south,No,Canterbury,undergraduate,4,3,No,6,Nelson Bays,short,English,NZ,None,No,No,None,5,5,No,2,Non M,south,7,south,10
+nz_171,2,2,1,no,18-29,man,European/P?keh?,Yes,north,No,Waikato,high school,3,3,No,7,Waikato,long,English,NZ,None,No,No,None,5,5,No,4,Non M,north,6,north,10
+nz_172,1,1,1,no,30-39,woman,European/P?keh?,Yes,south,No,Canterbury,certificate or diploma,3,4,Yes,7,Canterbury,long,English,NZ,None,No,No,None,5,5,No,2,Non M,south,7,south,10
+nz_173,1,1,2,no,50-59,woman,European/P?keh?,Yes,north,No,Taranaki,undergraduate,4,4,Yes,8,Wanganui,short,English,NZ,None,No,No,None,4,4,No,2,Non M,north,8,north,8
+nz_174,1,1,1,no,18-29,woman,European/P?keh?/Asian,Yes,north,No,Wellington,undergraduate,5,4,No,8,Wellington,long,English,NZ,None,No,No,None,5,5,No,2,Non M,north,9,north,10
+nz_175,1,1,1,no,18-29,woman,European/P?keh?/M?ori/Pacific Peoples,No,north,No,Wellington,high school,5,4,No,7,Wellington,long,English,NZ,None,No,No,None,5,5,No,2,M,north,9,north,10
+nz_176,1,1,1,no,50-59,woman,European/P?keh?,Yes,north,No,Hawke's Bay,high school,5,5,Yes,4,Hawke's Bay,long,English,NZ,None,No,No,None,5,5,No,2,Non M,north,10,north,10
+nz_177,0,0,0,no,30-39,woman,European/P?keh?/M?ori,Yes,north,No,Manawatu,undergraduate,5,5,Yes,2,Manawatu,short,English,NZ,None,No,No,None,5,1,No,0,M,north,10,north,6
+nz_178,1,2,4,lang,18-29,woman,Asian,Yes,north,No,Auckland,undergraduate,5,4,No,7,Auckland,long,English,NZ,yue,No,No,None,5,5,No,3,Non M,north,9,north,10
+nz_179,1,1,2,no,60,woman,European/P?keh?,Yes,north,No,Auckland,certificate or diploma,5,3,No,5,Auckland,long,English,NZ,None,No,No,None,5,5,No,2,Non M,north,8,north,10
+nz_180,1,2,3,no,40-49,woman,European/P?keh?/M?ori,Yes,north,No,Gisborne,certificate or diploma,3,2,No,8,Waikato,short,English,NZ,None,No,No,None,5,5,No,3,M,north,5,north,10
+nz_181,1,1,1,lang,18-29,woman,European/P?keh?,Yes,north,No,Auckland,undergraduate,3,2,No,4,Auckland,long,English,NZ,"deu,fra",No,No,None,5,5,No,2,Non M,north,5,north,10
+nz_182,1,1,2,no,18-29,NB,European/P?keh?,Yes,north,No,Taranaki,graduate,4,4,No,5,Auckland,short,English,NZ,None,No,No,None,5,5,No,2,Non M,north,8,north,10
+nz_183,1,1,1,no,30-39,woman,European/P?keh?,Yes,north,No,Auckland,certificate or diploma,4,3,Yes,7,Wellington,long,English,NZ,None,No,No,None,5,5,No,2,Non M,north,7,north,10
+nz_184,1,1,1,no,40-49,woman,European/P?keh?,Yes,north,No,Waikato,certificate or diploma,4,5,Yes,8,Waikato,long,English,NZ,None,No,No,None,4,5,No,2,Non M,north,9,north,9
+nz_185,1,1,1,no,18-29,woman,European/P?keh?,Yes,south,No,Otago,undergraduate,1,2,No,8,Otago,long,English,NZ,fra,No,No,None,4,4,No,2,Non M,south,3,south,8
+nz_186,1,1,4,no,40-49,woman,European/P?keh?,Yes,south,No,Otago,undergraduate,2,4,No,3,Otago,long,English,NZ,None,No,No,None,5,5,No,2,Non M,south,6,south,10
+nz_187,2,2,2,no,18-29,woman,European/P?keh?,Yes,north,No,Wellington,certificate or diploma,4,4,Yes,9,Wellington,long,English,NZ,None,No,No,None,5,5,No,4,Non M,north,8,north,10
+nz_188,0,0,0,no,18-29,woman,European/P?keh?,Yes,north,No,Auckland,graduate,2,2,Yes,1,Auckland,long,English,NZ,None,No,No,None,4,4,No,0,Non M,north,4,north,8
+nz_189,1,1,0,no,18-29,NB,European/P?keh?,Yes,north,No,Auckland,undergraduate,4,3,No,1,Auckland,long,English,NZ,None,No,No,None,5,5,No,2,Non M,north,7,north,10
+nz_190,1,1,1,no,18-29,woman,European/P?keh?,Yes,south,No,Otago,graduate,4,2,No,9,Otago,long,English,NZ,fra,No,No,None,5,5,No,2,Non M,south,6,south,10
+nz_191,2,2,4,no,40-49,woman,European/P?keh?/M?ori,Yes,south,No,Canterbury,graduate,5,4,Yes,9,Canterbury,long,English,NZ,None,No,No,None,5,5,No,4,M,south,9,south,10
+nz_192,0,0,0,no,30-39,woman,European/P?keh?,Yes,north,No,Auckland,high school,4,4,Yes,5,Auckland,long,English,NZ,None,No,No,Samoan,3,2,No,0,Non M,north,8,north,5
+nz_193,1,1,1,no,40-49,woman,European/P?keh?,Yes,south,No,Canterbury,certificate or diploma,5,5,Yes,7,Canterbury,long,English,NZ,spa,No,No,None,3,3,No,2,Non M,south,10,south,6
+nz_194,1,1,0,no,30-39,woman,European/P?keh?,Yes,north,No,Auckland,high school,5,4,Yes,4,Waikato,short,English,NZ,None,No,No,None,4,4,No,2,Non M,north,9,north,8
+nz_195,1,1,3,no,50-59,woman,European/P?keh?,Yes,south,No,Canterbury,certificate or diploma,3,3,No,4,Canterbury,long,English,NZ,None,No,No,None,4,4,No,2,Non M,south,6,south,8
