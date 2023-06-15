@@ -215,7 +215,7 @@ For the statistical analysis, only the polymoraic set is used. Furthermore, ther
 
 ## Experimental Methodology
 
-The experiment was distributed as a web interface that was accessible through a URL link. Participants were required to read an information sheet and agree to a consent form before beginning the experiment. The experiment used an interface that was identical to that used in Needle [-@needle2018gradient]. Following the experiment was a [questionnaire][Questionnaire and New Zealand-Based Particiapnt Demographics]. For the New Zealand-based Participants, the experiment was distributed through online advertisements on Facebook. For the non-New Zealand paticipants, the experiment was distributed through Twitter.
+The experiment was distributed as a web interface that was accessible through a URL link. Participants were required to read an information sheet and agree to a consent form before beginning the experiment. The experiment used an interface that was identical to that used in Needle [-@needle2018gradient]. Following the experiment was a questionnaire. For the New Zealand-based Participants, the experiment was distributed through online advertisements on Facebook. For the non-New Zealand paticipants, the experiment was distributed through Twitter.
 
 All experimentation was carried out with full ethical clearance from the University of Canterbury.
 
@@ -233,7 +233,7 @@ The experiment was conducted twice. First, the experiment was sent to New Zealan
 
 ## Data Filtering and Preparation
 
-There were a total of 307 participants that engaged with the first experiment. The filtering process is shown below. Note that the criteria for filtering partly made use of the [questionnaire][Questionnaire and New Zealand-Based Particiapnt Demographics].
+There were a total of 307 participants that engaged with the first experiment. The filtering process is shown below. Note that the criteria for filtering partly made use of the questionnaire.
 
 55 participants were removed that did not complete the experiment.
 10 'participants' were removed after it was determined that it was the same user completing the experiment with different e-mail addresses.
