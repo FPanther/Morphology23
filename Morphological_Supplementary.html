@@ -10,6 +10,7 @@
 
 
 
+<meta name="date" content="2023-06-18" />
 
 <title>Morphological Segmentations of Non-Māori Speaking New Zealanders Match Proficient Speakers</title>
 
@@ -1821,7 +1822,7 @@ border-radius: 0px;
 
 
 <h1 class="title toc-ignore">Morphological Segmentations of Non-Māori Speaking New Zealanders Match Proficient Speakers</h1>
-<h4 class="date">Pipiri 16, 2023</h4>
+<h4 class="date">June 18, 2023</h4>
 
 </div>
 
@@ -2775,7 +2776,7 @@ Cons Boundary
 </div>
 <div id="phonotactic-scores" class="section level2" number="2.5">
 <h2><span class="header-section-number">2.5</span> Phonotactic Scores</h2>
-<p>In order to determine the sensitivity of New Zealand-based and non-New Zealand based participants to English and Māori phonotactics, we devised phonotactic complexity scores for each bigram in the experimental results dataset. Since the experiment is a task in processing morphological composition, ngram models were developed from Māori and English morphological databases. The Māori phonotactic scores were derived from a set of morphs developed from the use of an edited version of Morfessor <span class="citation">(<a href="#ref-virpioja2013morfessor" role="doc-biblioref">Virpioja et al. 2013</a>)</span>, which was trained on the Expert Rater segmentations. The English phonotactic scores were derived from a set of morphs from the CELEX database <span class="citation">(<a href="#ref-van1990celex" role="doc-biblioref">Van der Wouden 1990</a>)</span>. This dataset is described in footnote one in <span class="citation">Hay, Pierrehumbert, and Beckman (<a href="#ref-hay2004speech" role="doc-biblioref">2004</a>)</span>. Bigrams were retrieved from this dataset, and for each unique bigram its score was calculated as its negative base-2 log conditional probability <span class="citation">(<a href="#ref-goldsmith2012information" role="doc-biblioref">Goldsmith and Riggle 2012</a>; <a href="#ref-pimentel2020phonotactic" role="doc-biblioref">Pimentel, Roark, and Cotterell 2020</a>; <a href="#ref-brown1992estimate" role="doc-biblioref">Brown et al. 1992</a>)</span>. In other words, for a bigram <code>ab</code>:</p>
+<p>In order to determine the sensitivity of New Zealand-based and non-New Zealand based participants to English and Māori phonotactics, we devised phonotactic complexity scores for each bigram in the experimental results dataset. Since the experiment is a task in processing morphological composition, ngram models were developed from Māori and English morphological databases. The Māori phonotactic scores were derived from a set of morphs developed from the use of an edited version of Morfessor <span class="citation">(<a href="#ref-virpioja2013morfessor" role="doc-biblioref">Virpioja et al. 2013</a>)</span>, which was trained on the Expert Rater segmentations <span class="citation">(<a href="#ref-todd2022unsupervised" role="doc-biblioref">Todd et al. 2022</a>)</span>. The English phonotactic scores were derived from a set of morphs from the CELEX database <span class="citation">(<a href="#ref-van1990celex" role="doc-biblioref">Van der Wouden 1990</a>)</span>. This dataset is described in footnote one in <span class="citation">Hay, Pierrehumbert, and Beckman (<a href="#ref-hay2004speech" role="doc-biblioref">2004</a>)</span>. Bigrams were retrieved from this dataset, and for each unique bigram its score was calculated as its negative base-2 log conditional probability <span class="citation">(<a href="#ref-goldsmith2012information" role="doc-biblioref">Goldsmith and Riggle 2012</a>; <a href="#ref-pimentel2020phonotactic" role="doc-biblioref">Pimentel, Roark, and Cotterell 2020</a>; <a href="#ref-brown1992estimate" role="doc-biblioref">Brown et al. 1992</a>)</span>. In other words, for a bigram <code>ab</code>:</p>
 <p>score(ab) = -log2(frequency(ab)/frequency(a))</p>
 <p>Simple Good-turing smoothing <span class="citation">(<a href="#ref-gale1995good" role="doc-biblioref">Gale and Sampson 1995</a>)</span> was used to provide scores for bigrams in the experimental results dataset that were absent in the English or Māori morph datasets.</p>
 <p>For the Māori score, two measures were derived. The first preserved length contrasts in the vowels, while the second neutralized length contrast.</p>
@@ -3540,6 +3541,9 @@ Needle, Jeremy Michael. 2018. <span>“Gradient Typicality and Indexical Associa
 </div>
 <div id="ref-pimentel2020phonotactic" class="csl-entry">
 Pimentel, Tiago, Brian Roark, and Ryan Cotterell. 2020. <span>“Phonotactic Complexity and Its Trade-Offs.”</span> <em>Transactions of the Association for Computational Linguistics</em> 8: 1–18. <a href="https://doi.org/10.1162/tacl_a_00296">https://doi.org/10.1162/tacl_a_00296</a>.
+</div>
+<div id="ref-todd2022unsupervised" class="csl-entry">
+Todd, Simon, Annie Huang, Jeremy Needle, J King, and Jennifer Hay. 2022. <span>“Unsupervised Morphological Segmentation in a Language with Reduplication.”</span> <em>Proceedings of the 19th SIGMORPHON Workshop on Computational Research in Phonetics, Phonology, and Morphology</em>, 12–22.
 </div>
 <div id="ref-van1990celex" class="csl-entry">
 Van der Wouden, Ton. 1990. <span>“Celex: Building a Multifunctional Polytheoretical Lexical Data Base.”</span> <em>Proceedings of BudaLex</em> 88: 363–73.
